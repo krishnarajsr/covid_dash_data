@@ -1,1 +1,2990 @@
-{"hotspots":[{"district":"Kannur","lsgd":"Alakode","wards":"13, 19"},{"district":"Kannur","lsgd":"Anjarakandi","wards":"7, 9, 10, 15"},{"district":"Kannur","lsgd":"Anthoor (M)","wards":"1, 6, 10, 11,    26"},{"district":"Kannur","lsgd":"Aralam","wards":"10"},{"district":"Kannur","lsgd":"Ayyankunnu","wards":"6, 13, 14"},{"district":"Kannur","lsgd":"Azheeikkode","wards":"23"},{"district":"Kannur","lsgd":"Chembilod","wards":"3, 5, 9, 14"},{"district":"Kannur","lsgd":"Chengalayi","wards":"4, 12"},{"district":"Kannur","lsgd":"Cheruthazham","wards":"6, 7, 8, 9,    10, 15,16"},{"district":"Kannur","lsgd":"Chirakkal","wards":"4, 6, 11, 20"},{"district":"Kannur","lsgd":"Chittariparambu","wards":"8, 13"},{"district":"Kannur","lsgd":"Chokli","wards":"5"},{"district":"Kannur","lsgd":"Ezhome","wards":"All wards"},{"district":"Kannur","lsgd":"Dharmadom","wards":"15"},{"district":"Kannur","lsgd":"Eramam-Kuttoor","wards":"5, 10, 17"},{"district":"Kannur","lsgd":"Ezhome","wards":"4"},{"district":"Kannur","lsgd":"Irikkur","wards":"4"},{"district":"Kannur","lsgd":"Iritty (M)","wards":"2, 13, 16, 21"},{"district":"Kannur","lsgd":"Kadamboor","wards":"2, 3"},{"district":"Kannur","lsgd":"Kadannapalli-Panapuzha","wards":"1, 7, 10, 11,    12, 13, 14, 15"},{"district":"Kannur","lsgd":"Kannapuram","wards":"4"},{"district":"Kannur","lsgd":"Kannur (C)","wards":"14, 17, 20,    30, 31, 40, 50"},{"district":"Kannur","lsgd":"Karivalloor-Peralam","wards":"6, 10"},{"district":"Kannur","lsgd":"Kathiroor","wards":"1, 2, 7, 12,    16"},{"district":"Kannur","lsgd":"Keezhalloor","wards":"2"},{"district":"Kannur","lsgd":"Kolayad","wards":"7, 11"},{"district":"Kannur","lsgd":"Koodali","wards":"15"},{"district":"Kannur","lsgd":"Kuthuparambu (M)","wards":"1, 3, 6, 11,    13, 28"},{"district":"Kannur","lsgd":"Kottayam","wards":"1, 2 ,4,11, 12"},{"district":"Kannur","lsgd":"Kottiyoor","wards":"6"},{"district":"Kannur","lsgd":"Kunnothuparambu","wards":"All Wards"},{"district":"Kannur","lsgd":"Kurumathur","wards":"10"},{"district":"Kannur","lsgd":"Kuttiatoor","wards":"11"},{"district":"Kannur","lsgd":"Madayi","wards":"14"},{"district":"Kannur","lsgd":"Malapattom","wards":"1"},{"district":"Kannur","lsgd":"Malur","wards":"1, 2, 7, 13,    14"},{"district":"Kannur","lsgd":"Mangattidam","wards":"2, 3, 11"},{"district":"Kannur","lsgd":"Iritty (M)","wards":"15, 17, 28"},{"district":"Kannur","lsgd":"Mayyil","wards":"2, 6"},{"district":"Kannur","lsgd":"Mokeri","wards":"2"},{"district":"Kannur","lsgd":"Munderi","wards":"10, 11, 12,    20"},{"district":"Kannur","lsgd":"Muzhakkunnu","wards":"1, 2"},{"district":"Kannur","lsgd":"Muzhuppilangad","wards":"6"},{"district":"Kannur","lsgd":"Padiyoor","wards":"12"},{"district":"Kannur","lsgd":"Pannyannoor","wards":"2"},{"district":"Kannur","lsgd":"Panoor (M)","wards":"All Wards"},{"district":"Kannur","lsgd":"Pappinisseri","wards":"2, 5, 18"},{"district":"Kannur","lsgd":"Pariyaram","wards":"16"},{"district":"Kannur","lsgd":"Pattuvam","wards":"6, 8, 9"},{"district":"Kannur","lsgd":"Payam","wards":"12"},{"district":"Kannur","lsgd":"Payyannur (M)","wards":"3, 8, 20, 21,    28"},{"district":"Kannur","lsgd":"Peravoor","wards":"8, 11, 16"},{"district":"Kannur","lsgd":"Peringom-Vayakkara","wards":"2,12"},{"district":"Kannur","lsgd":"Pinarayi","wards":"5, 7, 8"},{"district":"Kannur","lsgd":"Ramanthali","wards":"2"},{"district":"Kannur","lsgd":"Sreekandapuram (M)","wards":"2, 21, 22"},{"district":"Kannur","lsgd":"Thalasseri (M)","wards":"10, 11,14"},{"district":"Kannur","lsgd":"Thaliparambu (M)","wards":"12, 19, 21,    30"},{"district":"Kannur","lsgd":"Thillankeri","wards":"6, 7"},{"district":"Kannur","lsgd":"Thriprangottur","wards":"1, 8, 11, 13,    15,16, 17"},{"district":"Kannur","lsgd":"Udayagiri","wards":"6"},{"district":"Kannur","lsgd":"Chapparapadavu","wards":"4, 11"},{"district":"Kannur","lsgd":"Kunjimangalam","wards":"2, 9, 12"},{"district":"Kannur","lsgd":"Vengad","wards":"9,10,12, 16"},{"district":"Kannur","lsgd":"Narath","wards":"13"},{"district":"Kannur","lsgd":"Valapattanam","wards":"5, 8"},{"district":"Kannur","lsgd":"Cherupuzha","wards":"6"},{"district":"Kannur","lsgd":"Peralasseri","wards":"6"},{"district":"Kozhikode","lsgd":"Atholi","wards":"2"},{"district":"Kozhikode","lsgd":"Ayancheri","wards":"All Wards"},{"district":"Kozhikode","lsgd":"Azhiyur","wards":"All Wards"},{"district":"Kozhikode","lsgd":"Changaroth","wards":"1, 2, 3, 4"},{"district":"Kozhikode","lsgd":"Chathamangalam","wards":"1, 3, 4, 5,    6, 7, 17,18, 19"},{"district":"Kozhikode","lsgd":"Chekkyad","wards":"All Wards"},{"district":"Kozhikode","lsgd":"Chelannur","wards":"7, 12, 13"},{"district":"Kozhikode","lsgd":"Chengottukavu","wards":"16"},{"district":"Kozhikode","lsgd":"Cherode","wards":"1, 4, 8,10,12"},{"district":"Kozhikode","lsgd":"Cheruvannur","wards":"7"},{"district":"Kozhikode","lsgd":"Edacheri","wards":"All Wards"},{"district":"Kozhikode","lsgd":"Eramala","wards":"All Wards"},{"district":"Kozhikode","lsgd":"Ramanattukara (M)","wards":"15, 16, 30"},{"district":"Kozhikode","lsgd":"Kadalundi","wards":"All Wards"},{"district":"Kozhikode","lsgd":"Kakkodi","wards":"7, 10, 12,16"},{"district":"Kozhikode","lsgd":"Kakkur","wards":"12"},{"district":"Kozhikode","lsgd":"Kuruvattur","wards":"2, 4"},{"district":"Kozhikode","lsgd":"Kayakkodi","wards":"All Wards"},{"district":"Kozhikode","lsgd":"Kodancheri","wards":"All Wards"},{"district":"Kozhikode","lsgd":"Kodiyathur","wards":"5, 6"},{"district":"Kozhikode","lsgd":"Koduvalli (M)","wards":"13, 15, 25,    28, 29, 30"},{"district":"Kozhikode","lsgd":"Koodaranji","wards":"All Wards"},{"district":"Kozhikode","lsgd":"Koyilandi (M)","wards":"All Wards"},{"district":"Kozhikode","lsgd":"Kozhikkode (C)","wards":"8, 9, 11(Sub    ward), 13,16, 19, 21, 32, 34, 38, 39, 42, 46, 47,49, 51,54, 56, 57, 58,    59(Subward),61, 62, 63(Sub ward) 66, 70, 74(Sub ward)"},{"district":"Kozhikode","lsgd":"Kunnamangalam","wards":"1, 8, 16, 21"},{"district":"Kozhikode","lsgd":"Kutyadi","wards":"3, 4, 5"},{"district":"Kozhikode","lsgd":"Maniyur","wards":"All Wards"},{"district":"Kozhikode","lsgd":"Maruthonkara","wards":"All Wards"},{"district":"Kozhikode","lsgd":"Mavoor","wards":"2, 4"},{"district":"Kozhikode","lsgd":"Meppayur","wards":"All Wards"},{"district":"Kozhikode","lsgd":"Ramanattukara (M)","wards":"17, 18, 29,    30"},{"district":"Kozhikode","lsgd":"Nadapuram","wards":"All Wards"},{"district":"Kozhikode","lsgd":"Nanmanda","wards":"7, 14"},{"district":"Kozhikode","lsgd":"Olavanna","wards":"All Wards"},{"district":"Kozhikode","lsgd":"Omassery","wards":"6, 7, 8, 9,    10, 15, 17"},{"district":"Kozhikode","lsgd":"Onchiyam","wards":"All Wards"},{"district":"Kozhikode","lsgd":"Payyoli (M)","wards":"20, 31"},{"district":"Kozhikode","lsgd":"Perumanna","wards":"All Wards"},{"district":"Kozhikode","lsgd":"Peruvayal","wards":"3, 7"},{"district":"Kozhikode","lsgd":"Purameri","wards":"All Wards"},{"district":"Kozhikode","lsgd":"Puthuppadi","wards":"1, 2, 7, 8,    13, 14, 17, 21"},{"district":"Kozhikode","lsgd":"Ramanattukara (M)","wards":"9, 14, 20"},{"district":"Kozhikode","lsgd":"Thamarassery","wards":"9"},{"district":"Kozhikode","lsgd":"Thikkodi","wards":"7"},{"district":"Kozhikode","lsgd":"Thiruvallur","wards":"All Wards"},{"district":"Kozhikode","lsgd":"Thuneri","wards":"1, 2, 3, 4,    5, 6, 7, 8, 9, 10, 11, 12, 13, 15"},{"district":"Kozhikode","lsgd":"Ulliyeri","wards":"10"},{"district":"Kozhikode","lsgd":"Unnikkulam","wards":"12, 16"},{"district":"Kozhikode","lsgd":"Vanimal","wards":"All Wards"},{"district":"Kozhikode","lsgd":"Vadakara (M)","wards":"All Wards"},{"district":"Kozhikode","lsgd":"Valayam","wards":"1, 11, 12,    13, 14"},{"district":"Kozhikode","lsgd":"Velom","wards":"8, 9"},{"district":"Kozhikode","lsgd":"Villiyappally","wards":"All Wards"},{"district":"Kozhikode","lsgd":"Perambra","wards":"3, 10"},{"district":"Kozhikode","lsgd":"Keezhariyur","wards":"10"},{"district":"Kozhikode","lsgd":"Narippatta","wards":"14"},{"district":"Kozhikode","lsgd":"Panangad","wards":"13, 16"},{"district":"Kollam","lsgd":"Adichanalloor","wards":"9, 11"},{"district":"Kollam","lsgd":"Alappad","wards":"All Wards"},{"district":"Kollam","lsgd":"Alayamon","wards":"8, 12, 13"},{"district":"Kollam","lsgd":"Anchal","wards":"All wards"},{"district":"Kollam","lsgd":"Aryankavu","wards":"4    (Aryankavu), 5 (Aryankavu Temple)"},{"district":"Kollam","lsgd":"Chadayamangalam","wards":"All Wards"},{"district":"Kollam","lsgd":"Chavara","wards":"6, 7, 8, 9,    11, 12, 13, 14, 18"},{"district":"Kollam","lsgd":"Chithara","wards":"All Wards"},{"district":"Kollam","lsgd":"Clappana","wards":"7, 14"},{"district":"Kollam","lsgd":"Edamulakkal","wards":"3, 6, 11, 12,    13, 14, 15"},{"district":"Kollam","lsgd":"Ezhukone","wards":"7"},{"district":"Kollam","lsgd":"Elamadu","wards":"9, 12, 13, 15"},{"district":"Kollam","lsgd":"Ittiva","wards":"All Wards"},{"district":"Kollam","lsgd":"Kadakkal","wards":"All Wards"},{"district":"Kollam","lsgd":"Karavaloor","wards":"9, 15"},{"district":"Kollam","lsgd":"Karunagappally (M)","wards":"12, 23, 24,    29, 30, 33"},{"district":"Kollam","lsgd":"Kollam (C)","wards":"15(Sub Ward),    35"},{"district":"Kollam","lsgd":"Kottankara","wards":"8, 9, 10, 11"},{"district":"Kollam","lsgd":"Kottarakkara (M)","wards":"1, 2, 3, 7"},{"district":"Kollam","lsgd":"Kulakkada","wards":"9, 18"},{"district":"Kollam","lsgd":"Kulasekharapuram","wards":"8, 9, 10, 11,    21"},{"district":"Kollam","lsgd":"Kulathupuzha","wards":"All Wards"},{"district":"Kollam","lsgd":"Kummil","wards":"2, 7, 11, 14"},{"district":"Kollam","lsgd":"Mylam","wards":"All wards"},{"district":"Kollam","lsgd":"Melila","wards":"5, 7, 8, 9,    10, 11"},{"district":"Kollam","lsgd":"Neduvathoor","wards":"1, 5, 11, 13,    17"},{"district":"Kollam","lsgd":"Nilamel","wards":"All Wards"},{"district":"Kollam","lsgd":"Kottarakkara (M)","wards":"9, 11, 12,    17, 18, 19, 20, 21, 22, 23, 26"},{"district":"Kollam","lsgd":"Pathanapuram","wards":"12, 13, 14,    15"},{"district":"Kollam","lsgd":"Pattazhi","wards":"All Wards"},{"district":"Kollam","lsgd":"Pattazhi Vadakkekkara","wards":"All wards"},{"district":"Kollam","lsgd":"Pooyappalli","wards":"10, 11, 12,    13, 14"},{"district":"Kollam","lsgd":"Poruvazhy","wards":"14, 17"},{"district":"Kollam","lsgd":"Punaloor (M)","wards":"5, 6, 7, 8,    15, 17, 18, 26, 27"},{"district":"Kollam","lsgd":"Sasthamkotta","wards":"2, 3, 8"},{"district":"Kollam","lsgd":"Sooranadu North","wards":"All Wards"},{"district":"Kollam","lsgd":"Sooranadu South","wards":"All Wards"},{"district":"Kollam","lsgd":"Thalavoor","wards":"15, 19, 20"},{"district":"Kollam","lsgd":"Thazhava","wards":"18, 19, 20,    21"},{"district":"Kollam","lsgd":"Thenmala","wards":"4,5, 11, 14"},{"district":"Kollam","lsgd":"Thevalakkara","wards":"17"},{"district":"Kollam","lsgd":"Thodiyoor","wards":"All wards"},{"district":"Kollam","lsgd":"Thrikkaruva","wards":"1, 7, 8, 12,    15"},{"district":"Kollam","lsgd":"Ummannoor","wards":"10"},{"district":"Kollam","lsgd":"Veliyam","wards":"13, 14, 16,    17, 18"},{"district":"Kollam","lsgd":"Vettikkavala","wards":"All Wards"},{"district":"Kollam","lsgd":"Vilakudi","wards":"3, 6, 10, 12,    19"},{"district":"Kollam","lsgd":"Eroor","wards":"3, 5, 11, 12,    15"},{"district":"Kollam","lsgd":"Velinalloor","wards":"All Wards"},{"district":"Kollam","lsgd":"Neendakara","wards":"2, 3, 12"},{"district":"Kollam","lsgd":"Muntrothuruthu","wards":"All Wards"},{"district":"Kollam","lsgd":"Thrikkovilvattom","wards":"1, 22, 23"},{"district":"Thiruvananthapuram","lsgd":"Anchuthengu","wards":"All Wards"},{"district":"Thiruvananthapuram","lsgd":"Aryanad","wards":"4, 16, 17, 18"},{"district":"Thiruvananthapuram","lsgd":"Azhoor","wards":"15,18"},{"district":"Thiruvananthapuram","lsgd":"Balaramapuram","wards":"5, 7, 13, 15,    17, 19"},{"district":"Thiruvananthapuram","lsgd":"Chemmaruthi","wards":"12"},{"district":"Thiruvananthapuram","lsgd":"Chenkal","wards":"3, 4, 12, 13,    14"},{"district":"Thiruvananthapuram","lsgd":"Chirayinkeezhu","wards":"All Wards"},{"district":"Thiruvananthapuram","lsgd":"Edava","wards":"All Wards"},{"district":"Thiruvananthapuram","lsgd":"Kadakkavoor","wards":"All Wards"},{"district":"Thiruvananthapuram","lsgd":"Kadinamkulam","wards":"All Wards"},{"district":"Thiruvananthapuram","lsgd":"Kallara","wards":"8, 9, 10, 11,    12"},{"district":"Thiruvananthapuram","lsgd":"Kallikkad","wards":"All Wards"},{"district":"Thiruvananthapuram","lsgd":"Karakulam","wards":"16"},{"district":"Thiruvananthapuram","lsgd":"Karavaram","wards":"6"},{"district":"Thiruvananthapuram","lsgd":"Karode","wards":"All Wards"},{"district":"Thiruvananthapuram","lsgd":"Karumkulam","wards":"All Wards"},{"district":"Thiruvananthapuram","lsgd":"Kattakada","wards":"4, 5, 7, 8,    10, 13, 16, 17"},{"district":"Thiruvananthapuram","lsgd":"Kilimanoor","wards":"12"},{"district":"Thiruvananthapuram","lsgd":"Kizhuvilam","wards":"7,8, 10, 18"},{"district":"Thiruvananthapuram","lsgd":"Kollayil","wards":"9, 12, 14, 16"},{"district":"Thiruvananthapuram","lsgd":"Kottukal","wards":"All Wards"},{"district":"Thiruvananthapuram","lsgd":"Kulathoor","wards":"1, 4, 8, 18,    20"},{"district":"Thiruvananthapuram","lsgd":"Kunnathukal","wards":"All wards"},{"district":"Thiruvananthapuram","lsgd":"Maranalloor","wards":"3, 13, 17"},{"district":"Thiruvananthapuram","lsgd":"Nanniyodu","wards":"4, 12"},{"district":"Thiruvananthapuram","lsgd":"Neyyattinkara (M)","wards":"4, 6, 11, 12,    19, 39"},{"district":"Thiruvananthapuram","lsgd":"Ottasekharamangalam","wards":"1, 8"},{"district":"Thiruvananthapuram","lsgd":"Pallichal","wards":"3, 4"},{"district":"Thiruvananthapuram","lsgd":"Pallikkal","wards":"5, 7, 8, 9,    10, 13"},{"district":"Thiruvananthapuram","lsgd":"Panavoor","wards":"4, 7, 10,11"},{"district":"Thiruvananthapuram","lsgd":"Pangod","wards":"8"},{"district":"Thiruvananthapuram","lsgd":"Parassala","wards":"All wards"},{"district":"Thiruvananthapuram","lsgd":"Pazhayakunnummel","wards":"1, 2, 5"},{"district":"Thiruvananthapuram","lsgd":"Peringammala","wards":"1, 16,17, 18,    19"},{"district":"Thiruvananthapuram","lsgd":"Perumkadavila","wards":"All Wards"},{"district":"Thiruvananthapuram","lsgd":"Poovachal","wards":"2, 3, 5, 17,    18, 22"},{"district":"Thiruvananthapuram","lsgd":"Poovar","wards":"All Wards"},{"district":"Thiruvananthapuram","lsgd":"Thiruvananthapuram (C)","wards":"All Wards"},{"district":"Thiruvananthapuram","lsgd":"Vakkam","wards":"All Wards"},{"district":"Thiruvananthapuram","lsgd":"Varkala (M)","wards":"All Coastal    Wards"},{"district":"Thiruvananthapuram","lsgd":"Vembayam","wards":"1, 15, 18"},{"district":"Thiruvananthapuram","lsgd":"Venganoor","wards":"9"},{"district":"Thiruvananthapuram","lsgd":"Vettoor","wards":"All Wards"},{"district":"Thiruvananthapuram","lsgd":"Vilappil","wards":"10, 20"},{"district":"Thiruvananthapuram","lsgd":"Vellarada","wards":"8, 9"},{"district":"Thiruvananthapuram","lsgd":"Vamanpuram","wards":"14"},{"district":"Thiruvananthapuram","lsgd":"Mudakkal","wards":"20"},{"district":"Ernakulam","lsgd":"Kochi (C)","wards":"1, 2, 3, 4,    5, 6, 7, 8, 9,10,12, 14, 15, 19, 20, 21, 23, 24,25, 26,27, 28, 31, 33, 36,    45, 50,52, 71"},{"district":"Ernakulam","lsgd":"Alangad","wards":"All Wards"},{"district":"Ernakulam","lsgd":"Aluva (M)","wards":"All Divisions"},{"district":"Ernakulam","lsgd":"Chellanam","wards":"All Wards"},{"district":"Ernakulam","lsgd":"Chengamanadu","wards":"All Wards"},{"district":"Ernakulam","lsgd":"Chendamangalam","wards":"9"},{"district":"Ernakulam","lsgd":"Cheranallur","wards":"2, 16, 17"},{"district":"Ernakulam","lsgd":"Choornikkara","wards":"All Wards"},{"district":"Ernakulam","lsgd":"Edathala","wards":"All Wards"},{"district":"Ernakulam","lsgd":"Elankunnapuzha","wards":"6, 14, 15    Kalamukku Market"},{"district":"Ernakulam","lsgd":"Eloor (M)","wards":"6 (Sub    Wards), 9, 27, 30(Sub Wards)"},{"district":"Ernakulam","lsgd":"Ezhikkara","wards":"8, 9"},{"district":"Ernakulam","lsgd":"Kadungalloor","wards":"7, 8"},{"district":"Ernakulam","lsgd":"Kalady","wards":"5,17"},{"district":"Ernakulam","lsgd":"Kalamasseri (M)","wards":"1, 2, 3,    6,16, 29, 30, 31, 32, 33, 34,35, 36, 37, 41"},{"district":"Ernakulam","lsgd":"Karumaloor","wards":"All Wards"},{"district":"Ernakulam","lsgd":"Keezhmadu","wards":"All Wards"},{"district":"Ernakulam","lsgd":"Kottuvally","wards":"11, 17"},{"district":"Ernakulam","lsgd":"Kumbalangy","wards":"5(Sub Ward),    7"},{"district":"Ernakulam","lsgd":"Kuttampuzha","wards":"14, 15,16"},{"district":"Ernakulam","lsgd":"Kuzhuppilly","wards":"1"},{"district":"Ernakulam","lsgd":"Malayattoor Neeleeswaram","wards":"17"},{"district":"Ernakulam","lsgd":"Manjapra","wards":"8"},{"district":"Ernakulam","lsgd":"Marad (M)","wards":"23, 24(Sub    ward)"},{"district":"Ernakulam","lsgd":"Aluva (M)","wards":"1, 28    (Pezhakkappilly Market)"},{"district":"Ernakulam","lsgd":"Nedumbassery","wards":"14, 15"},{"district":"Ernakulam","lsgd":"Nellikuzhy","wards":"All Wards"},{"district":"Ernakulam","lsgd":"Thiruvaniyoor","wards":"6, 7, 9"},{"district":"Ernakulam","lsgd":"Thrikkakkara (M)","wards":"1,2, 3, 4,    5(Sub Ward), 6, 12, 28(Sub Ward),35, 40, 41, 42"},{"district":"Ernakulam","lsgd":"Thrippunithura (M)","wards":"6 (Sub    Ward),16, 19(Sub Ward)"},{"district":"Ernakulam","lsgd":"Varapuzha","wards":"14 (Market)"},{"district":"Ernakulam","lsgd":"Vazhakkulam","wards":"1, 2, 4, 9"},{"district":"Ernakulam","lsgd":"Kavalangad","wards":"13"},{"district":"Ernakulam","lsgd":"Kunnathunad","wards":"12"},{"district":"Ernakulam","lsgd":"Pindimana","wards":"8"},{"district":"Ernakulam","lsgd":"Thuravoor","wards":"4, 9, 14"},{"district":"Ernakulam","lsgd":"Pallippuram","wards":"5"},{"district":"Ernakulam","lsgd":"Nayarambalam","wards":"6"},{"district":"Ernakulam","lsgd":"Udayamperoor","wards":"6"},{"district":"Ernakulam","lsgd":"Koothattukulam (M)","wards":"9"},{"district":"Ernakulam","lsgd":"Chittattukara","wards":"7, 9(Sub    Ward)"},{"district":"Ernakulam","lsgd":"Vengola","wards":"7"},{"district":"Ernakulam","lsgd":"Kottappady","wards":"7"},{"district":"Kasaragod","lsgd":"Ajanur","wards":"1, 4, 6, 15,    16"},{"district":"Kasaragod","lsgd":"Badiyaduka","wards":"1, 2, 7,    9,12, 15, 18, 19"},{"district":"Kasaragod","lsgd":"Balal","wards":"3, 11, 14"},{"district":"Kasaragod","lsgd":"Kodom-Belur","wards":"1, 10, 11"},{"district":"Kasaragod","lsgd":"Chemmanad","wards":"1, 2, 3, 5,    7, 8, 11, 13,18, 21"},{"district":"Kasaragod","lsgd":"Chengala","wards":"1, 4, 5, 7,    8, 9, 10,11, 13, 14, 17, 19, 20 ,21, 23"},{"district":"Kasaragod","lsgd":"Cheruvathur","wards":"4, 10, 15, 17"},{"district":"Kasaragod","lsgd":"East Eleri","wards":"14, 15"},{"district":"Kasaragod","lsgd":"Enmakaje","wards":"3, 9"},{"district":"Kasaragod","lsgd":"Kallar","wards":"3, 7, 9, 10,    11, 13"},{"district":"Kasaragod","lsgd":"Kanjangad (M)","wards":"1, 9 ,14, 15,    21, 24, 28, 29,31, 42"},{"district":"Kasaragod","lsgd":"Karaduka","wards":"2, 4, 5, 6,    11"},{"district":"Kasaragod","lsgd":"Kasaragod (M)","wards":"2, 3, 5, 7,    8, 12, 14, 16, 17, 23, 25, 27, 28, 29, 34, 35, 37"},{"district":"Kasaragod","lsgd":"Kayyur-Chimeni","wards":"2, 3, 5, 10"},{"district":"Kasaragod","lsgd":"Kinanur-Karindalam","wards":"14, 15, 16"},{"district":"Kasaragod","lsgd":"Kodom-Belur","wards":"1,3, 5, 12"},{"district":"Kasaragod","lsgd":"Kumbala","wards":"1, 2, 3, 4,    5, 11,12,14, 16, 17,19, 20, 21, 22, 23"},{"district":"Kasaragod","lsgd":"Kumbadaje","wards":"5, 6, 7, 9,    10"},{"district":"Kasaragod","lsgd":"Kuttikol","wards":"3, 5, 13"},{"district":"Kasaragod","lsgd":"Madhur","wards":"2,3, 6, 7, 9,    10, 11, 14, 16, 17, 18, 19"},{"district":"Kasaragod","lsgd":"Madikai","wards":"11, 14, 15"},{"district":"Kasaragod","lsgd":"Mangalpady","wards":"1, 2, 3, 4,    5,7, 9, 10, 11, 12, 13, 15, 16, 17, 19, 20, 21"},{"district":"Kasaragod","lsgd":"Manjeswaram","wards":"2,3, 6,7,8,    9,10,11,12,13,14,15,17,19,20"},{"district":"Kasaragod","lsgd":"Meencha","wards":"1, 2, 7, 8,    11, 12, 13, 14"},{"district":"Kasaragod","lsgd":"Mogral-Puthur","wards":"3, 4, 6, 9,    10,12,14, 15"},{"district":"Kasaragod","lsgd":"Nileswaram (M)","wards":"5, 8, 10, 21,    29, 30"},{"district":"Kasaragod","lsgd":"Padanna","wards":"2, 4, 5"},{"district":"Kasaragod","lsgd":"Paivalike","wards":"9, 11, 16,    17, 18"},{"district":"Kasaragod","lsgd":"Pallikkara","wards":"4, 12, 14,    19, 22"},{"district":"Kasaragod","lsgd":"Pananthadi","wards":"2, 5, 7, 13,    14"},{"district":"Kasaragod","lsgd":"Pilicode","wards":"4, 7, 10, 12"},{"district":"Kasaragod","lsgd":"Pullur-Periya","wards":"1, 7, 8, 9,    11, 13, 14, 17"},{"district":"Kasaragod","lsgd":"Puthige","wards":"6, 10"},{"district":"Kasaragod","lsgd":"Thrikkarippur","wards":"1, 3, 4, 5,    7, 11, 13, 14, 15, 16"},{"district":"Kasaragod","lsgd":"Uduma","wards":"2, 6, 11, 14,    16, 18"},{"district":"Kasaragod","lsgd":"Valiyaparampa","wards":"6, 7 , 10"},{"district":"Kasaragod","lsgd":"Vorkady","wards":"1, 2, 3, 5,    7, 8, 9, 10, 15"},{"district":"Kasaragod","lsgd":"Bedadka","wards":"4"},{"district":"Palakkad","lsgd":"Alanalloor","wards":"1, 9, 17"},{"district":"Palakkad","lsgd":"Anakkara","wards":"All Wards"},{"district":"Palakkad","lsgd":"Chittoor-Thathamangalam (M)","wards":"9"},{"district":"Palakkad","lsgd":"Elappulli","wards":"16"},{"district":"Palakkad","lsgd":"Kanjirappuzha","wards":"1, 13"},{"district":"Palakkad","lsgd":"Karakurissi","wards":"12"},{"district":"Palakkad","lsgd":"Karimba","wards":"6, 9"},{"district":"Palakkad","lsgd":"Koduvayoor","wards":"4, 6, 18"},{"district":"Palakkad","lsgd":"Kongadu","wards":"6"},{"district":"Palakkad","lsgd":"Koppam","wards":"All Wards"},{"district":"Palakkad","lsgd":"Kottoppadam","wards":"16"},{"district":"Palakkad","lsgd":"Kozhinjampara","wards":"8"},{"district":"Palakkad","lsgd":"Kulukkalloor","wards":"All Wards"},{"district":"Palakkad","lsgd":"Puthur","wards":"9, 10, 11, 12"},{"district":"Palakkad","lsgd":"Marutharoad","wards":"10"},{"district":"Palakkad","lsgd":"Muthuthala","wards":"All Wards"},{"district":"Palakkad","lsgd":"Nagalasserry","wards":"All Wards"},{"district":"Palakkad","lsgd":"Nellaya","wards":"All Wards"},{"district":"Palakkad","lsgd":"Nenmara","wards":"5"},{"district":"Palakkad","lsgd":"Ongalloor","wards":"All Wards"},{"district":"Palakkad","lsgd":"Ottappalam (M)","wards":"7, 18"},{"district":"Palakkad","lsgd":"Paruthoor","wards":"All Wards"},{"district":"Palakkad","lsgd":"Pattambi (M)","wards":"All Wards"},{"district":"Palakkad","lsgd":"Pattancherry","wards":"15"},{"district":"Palakkad","lsgd":"Pattithara","wards":"All Wards"},{"district":"Palakkad","lsgd":"Peruvembu","wards":"1, 12"},{"district":"Palakkad","lsgd":"Polpulli","wards":"11"},{"district":"Palakkad","lsgd":"Puthunagaram","wards":"2"},{"district":"Palakkad","lsgd":"Puthusseri","wards":"14, 15"},{"district":"Palakkad","lsgd":"Shornur (M)","wards":"25"},{"district":"Palakkad","lsgd":"Thenkara","wards":"1, 5, 9, 17"},{"district":"Palakkad","lsgd":"Thiruvengappura","wards":"All Wards"},{"district":"Palakkad","lsgd":"Vallappuzha","wards":"All Wards"},{"district":"Palakkad","lsgd":"Vaniyamkulam","wards":"6"},{"district":"Palakkad","lsgd":"Ambalappara","wards":"17"},{"district":"Palakkad","lsgd":"Karimpuzha","wards":"17"},{"district":"Palakkad","lsgd":"Vadakkancherri","wards":"12, 13, 14"},{"district":"Palakkad","lsgd":"Mundoor","wards":"1"},{"district":"Alappuzha","lsgd":"Kayamkulam (M)","wards":"4, 7, 9"},{"district":"Alappuzha","lsgd":"Ambalappuzha North","wards":"18"},{"district":"Alappuzha","lsgd":"Arattupuzha","wards":"12"},{"district":"Alappuzha","lsgd":"Aroor","wards":"11, 13"},{"district":"Alappuzha","lsgd":"Bharanikavu","wards":"12"},{"district":"Alappuzha","lsgd":"Chengannur (M)","wards":"4, 23"},{"district":"Alappuzha","lsgd":"Chennam Pallipuram","wards":"14"},{"district":"Alappuzha","lsgd":"Cherthala (M)","wards":"12, 27, 30"},{"district":"Alappuzha","lsgd":"Cherthala South","wards":"3, 16"},{"district":"Alappuzha","lsgd":"Ezhupunna","wards":"All wards"},{"district":"Alappuzha","lsgd":"Kadakkarapalli","wards":"All wards"},{"district":"Alappuzha","lsgd":"Kavalam","wards":"1, 2, 3, 4,    5, 6, 7, 8, 9"},{"district":"Alappuzha","lsgd":"Kodamthuruthu","wards":"4, 7, 9, 10,    12, 14"},{"district":"Alappuzha","lsgd":"Krishnapuram","wards":"1"},{"district":"Alappuzha","lsgd":"Kuthiyathodu","wards":"1, 3, 16"},{"district":"Alappuzha","lsgd":"Mannancherry","wards":"2, 3, 14, 20"},{"district":"Alappuzha","lsgd":"Mararikulam North","wards":"1, 14, 18"},{"district":"Alappuzha","lsgd":"Mararikulam South","wards":"15, 16, 17,    19, 21"},{"district":"Alappuzha","lsgd":"Muhamma","wards":"15"},{"district":"Alappuzha","lsgd":"Neelamperoor","wards":"1, 2, 3, 4"},{"district":"Alappuzha","lsgd":"Nooranadu","wards":"9, 11"},{"district":"Alappuzha","lsgd":"Palamel","wards":"1"},{"district":"Alappuzha","lsgd":"Pallipad","wards":"10, 11"},{"district":"Alappuzha","lsgd":"Pattanakkad","wards":"12, 14, 16,    17"},{"district":"Alappuzha","lsgd":"Puliyoor","wards":"1"},{"district":"Alappuzha","lsgd":"Punnapra North","wards":"1, 2, 11, 13,    16, 17"},{"district":"Alappuzha","lsgd":"Purakkad","wards":"18"},{"district":"Alappuzha","lsgd":"MavelikkaraThamarakulam","wards":"1, 2, 6, 7"},{"district":"Alappuzha","lsgd":"Thanneermukkam","wards":"5, 21"},{"district":"Alappuzha","lsgd":"Thazhakkara","wards":"21"},{"district":"Alappuzha","lsgd":"Thuravoor","wards":"All wards"},{"district":"Alappuzha","lsgd":"Vallikunnam","wards":"3"},{"district":"Alappuzha","lsgd":"Vayalar","wards":"15"},{"district":"Alappuzha","lsgd":"Veeyapuram","wards":"9"},{"district":"Alappuzha","lsgd":"Cheriyanad","wards":"8"},{"district":"Thrissur","lsgd":"Alagappa Nagar","wards":"13"},{"district":"Thrissur","lsgd":"Chalakkudi (M)","wards":"14"},{"district":"Thrissur","lsgd":"Chazhoor","wards":"3"},{"district":"Thrissur","lsgd":"Cherppu","wards":"11"},{"district":"Thrissur","lsgd":"Edavilangadu","wards":"7"},{"district":"Thrissur","lsgd":"Iringalakkuda (M)","wards":"All Divisions"},{"district":"Thrissur","lsgd":"Kadavalloor","wards":"12"},{"district":"Thrissur","lsgd":"Karalam","wards":"13, 14"},{"district":"Thrissur","lsgd":"Kattakambal","wards":"2, 8, 14"},{"district":"Thrissur","lsgd":"Kaipamangalam","wards":"4, 9, 16, 18,    20"},{"district":"Thrissur","lsgd":"Kodakara","wards":"2, 17"},{"district":"Thrissur","lsgd":"Kunnamkulam (M)","wards":"22"},{"district":"Thrissur","lsgd":"Mala","wards":"All Wards"},{"district":"Thrissur","lsgd":"Mathilakam","wards":"1"},{"district":"Thrissur","lsgd":"Muriyad","wards":"All Wards"},{"district":"Thrissur","lsgd":"Parappukkara","wards":"1, 9"},{"district":"Thrissur","lsgd":"Porkkulam","wards":"6, 7, 9, 10"},{"district":"Thrissur","lsgd":"Puthenchira","wards":"2, 3, 4, 6,    8, 14"},{"district":"Thrissur","lsgd":"Thannyam","wards":"18"},{"district":"Thrissur","lsgd":"Thrissur (C)","wards":"7, 8, 11"},{"district":"Thrissur","lsgd":"Vadakkancherri (M)","wards":"15, 18, 21,    31"},{"district":"Thrissur","lsgd":"Valappad","wards":"13"},{"district":"Thrissur","lsgd":"Varantharappilli","wards":"4,13"},{"district":"Thrissur","lsgd":"Varavoor","wards":"2"},{"district":"Thrissur","lsgd":"Velookkara","wards":"1, 2, 3, 14,    17, 18"},{"district":"Thrissur","lsgd":"Venkidangu","wards":"10, 11"},{"district":"Thrissur","lsgd":"Chazhoor","wards":"1, 2, 3, 4,    5, 13"},{"district":"Thrissur","lsgd":"Vellangalloor","wards":"18, 19"},{"district":"Thrissur","lsgd":"Pazhayannoor","wards":"1"},{"district":"Thrissur","lsgd":"Eriyad","wards":"8, 10"},{"district":"Thrissur","lsgd":"Kattoor","wards":"6"},{"district":"Thrissur","lsgd":"Adat","wards":"14"},{"district":"Thrissur","lsgd":"Kodassery","wards":"10, 11"},{"district":"Thrissur","lsgd":"Avanoor","wards":"10"},{"district":"Kottayam","lsgd":"Parathodu","wards":"8, 9"},{"district":"Kottayam","lsgd":"Aymanam","wards":"14"},{"district":"Kottayam","lsgd":"Udayanapuram","wards":"6, 7, 16"},{"district":"Kottayam","lsgd":"Kumarakom","wards":"10, 11"},{"district":"Kottayam","lsgd":"TV Puram","wards":"12"},{"district":"Kottayam","lsgd":"Ettumanoor (M)","wards":"All Wards"},{"district":"Kottayam","lsgd":"Vechoor","wards":"1, 4"},{"district":"Kottayam","lsgd":"Maravanthuruth","wards":"1"},{"district":"Kottayam","lsgd":"Changanassery (M)","wards":"24, 31, 33,    34, 37"},{"district":"Kottayam","lsgd":"Kottayam (M)","wards":"11, 30, 31,    32, 36, 39, 46"},{"district":"Kottayam","lsgd":"Vazhappally","wards":"7, 11, 12,    17, 20"},{"district":"Kottayam","lsgd":"Payippad","wards":"7, 8, 9, 10,    11"},{"district":"Kottayam","lsgd":"Vaikom (M)","wards":"13, 21, 24,    25"},{"district":"Kottayam","lsgd":"Kurichi","wards":"4, 20"},{"district":"Kottayam","lsgd":"Madapally","wards":"18"},{"district":"Kottayam","lsgd":"Meenadam","wards":"2, 3"},{"district":"Kottayam","lsgd":"Neendoor","wards":"8"},{"district":"Kottayam","lsgd":"Kanakari","wards":"3, 10"},{"district":"Kottayam","lsgd":"Thrikodithanam","wards":"15"},{"district":"Kottayam","lsgd":"Puthupalli","wards":"14"},{"district":"Kottayam","lsgd":"Thalayazham","wards":"7, 9"},{"district":"Kottayam","lsgd":"Erumeli","wards":"1"},{"district":"Kottayam","lsgd":"Athirampuzha","wards":"1, 9, 11, 12,    20, 21, 22"},{"district":"Kottayam","lsgd":"Mundakkayam","wards":"12"},{"district":"Kottayam","lsgd":"Ayarkunnam","wards":"15"},{"district":"Idukki","lsgd":"Idukki- Kanjikkuzhi","wards":"2, 3, 7, 13,    14"},{"district":"Idukki","lsgd":"Vazhathoppu","wards":"All Wards"},{"district":"Idukki","lsgd":"Mariyapuram","wards":"7"},{"district":"Idukki","lsgd":"Vannappuram","wards":"All Wards"},{"district":"Idukki","lsgd":"Munnar","wards":"19"},{"district":"Idukki","lsgd":"Vathikudi","wards":"2, 3"},{"district":"Idukki","lsgd":"Kamakshi","wards":"10, 11, 12"},{"district":"Idukki","lsgd":"Kattappana (M)","wards":"15, 16,"},{"district":"Idukki","lsgd":"Karinkunnam","wards":"1, 7, 8"},{"district":"Idukki","lsgd":"Edavetti","wards":"1, 11, 12, 13"},{"district":"Idukki","lsgd":"Vandanmedu","wards":"2, 3"},{"district":"Idukki","lsgd":"Konnathadi","wards":"1, 18"},{"district":"Idukki","lsgd":"Peerumedu","wards":"2, 6, 7, 10,    11, 12"},{"district":"Idukki","lsgd":"Elappara","wards":"6, 11, 12, 13"},{"district":"Idukki","lsgd":"Santhanpara","wards":"4, 5, 11, 12,    13"},{"district":"Idukki","lsgd":"Rajakumari","wards":"5, 6, 11"},{"district":"Idukki","lsgd":"Kanchiyar","wards":"11, 12"},{"district":"Idukki","lsgd":"Rajakkad","wards":"All Wards"},{"district":"Idukki","lsgd":"Devikulam","wards":"15"},{"district":"Idukki","lsgd":"Nedumkandam","wards":"10, 11"},{"district":"Idukki","lsgd":"Karunapuram","wards":"3"},{"district":"Idukki","lsgd":"Pampadumpara","wards":"4"},{"district":"Pathanamthitta","lsgd":"Enadimangalam","wards":"1, 11"},{"district":"Pathanamthitta","lsgd":"Ezhamkulam","wards":"13"},{"district":"Pathanamthitta","lsgd":"Kallooppara","wards":"13"},{"district":"Pathanamthitta","lsgd":"Kottangal","wards":"All Wards"},{"district":"Pathanamthitta","lsgd":"Kunnamthanam","wards":"10, 11"},{"district":"Pathanamthitta","lsgd":"Mezhuveli","wards":"4"},{"district":"Pathanamthitta","lsgd":"Omalloor","wards":"1"},{"district":"Pathanamthitta","lsgd":"Pallikkal","wards":"6, 7"},{"district":"Pathanamthitta","lsgd":"Pathanamthitta (M)","wards":"12, 22"},{"district":"Pathanamthitta","lsgd":"Peringara","wards":"9, 13, 15"},{"district":"Pathanamthitta","lsgd":"Pramadam","wards":"19"},{"district":"Pathanamthitta","lsgd":"Thiruvalla (M)","wards":"5, 8"},{"district":"Pathanamthitta","lsgd":"Vechuchira","wards":"11"},{"district":"Pathanamthitta","lsgd":"Kulanada","wards":"13"},{"district":"Pathanamthitta","lsgd":"Konni","wards":"All Wards"},{"district":"Pathanamthitta","lsgd":"Aranmula","wards":"7, 8, 13"},{"district":"Pathanamthitta","lsgd":"Nedumpram","wards":"3, 13"},{"district":"Malappuram","lsgd":"Ponnani (M)","wards":"All Wards"},{"district":"Malappuram","lsgd":"Nilambur (M)","wards":"All Wards"},{"district":"Malappuram","lsgd":"Peruvalloor","wards":"3, 12, 13,    18, 19"},{"district":"Malappuram","lsgd":"Mambadu","wards":"2, 3, 11,    12,13"},{"district":"Malappuram","lsgd":"Kondotty (M)","wards":"All Wards"},{"district":"Malappuram","lsgd":"Pallikkal","wards":"All Wards"},{"district":"Malappuram","lsgd":"Vazhayoor","wards":"All Wards"},{"district":"Malappuram","lsgd":"Vazhakkad","wards":"All Wards"},{"district":"Malappuram","lsgd":"Cheekkod","wards":"All Wards"},{"district":"Malappuram","lsgd":"Muthuvalloor","wards":"All Wards"},{"district":"Malappuram","lsgd":"Pulikkal","wards":"All Wards"},{"district":"Malappuram","lsgd":"Kuzhimanna","wards":"All Wards"},{"district":"Malappuram","lsgd":"Morayoor","wards":"All Wards"},{"district":"Malappuram","lsgd":"Chelambra","wards":"All Wards"},{"district":"Malappuram","lsgd":"Cherukavu","wards":"All Wards"},{"district":"Wayanad","lsgd":"Thirunelli","wards":"15"},{"district":"Wayanad","lsgd":"Thondernadu","wards":"All Wards"},{"district":"Wayanad","lsgd":"Kaniyampatta","wards":"5"},{"district":"Wayanad","lsgd":"Pulpalli","wards":"4"},{"district":"Wayanad","lsgd":"Mananthavady (M)","wards":"All Divisions"},{"district":"Wayanad","lsgd":"Edavaka","wards":"All Wards"},{"district":"Wayanad","lsgd":"Vellamunda","wards":"All Wards"},{"district":"Wayanad","lsgd":"Padinjarathara","wards":"1, 8, 12, 13,    16"},{"district":"Wayanad","lsgd":"Thavinjal","wards":"All Wards"},{"district":"Wayanad","lsgd":"Noolpuzha","wards":"14, 15, 16,    17"},{"district":"Wayanad","lsgd":"Nenmeni","wards":"1"},{"district":"Wayanad","lsgd":"Sulthan Bathery (M)","wards":"15, 23,24"},{"district":"Wayanad","lsgd":"Ambalavayal","wards":"5, 6, 7, 8,    13, 18"},{"district":"Wayanad","lsgd":"Pozhuthana","wards":"1, 2, 3, 4,    5, 6, 10, 11, 12, 13"},{"district":"Wayanad","lsgd":"Kottathara","wards":"5"}],"last_updated":"03-08-2020 7:52 PM"}
+[
+  {
+    "No": 1,
+    "District": "Kannur",
+    "LSG": "Aalakkod",
+    "Ward": "13, 19"
+  },
+  {
+    "No": 2,
+    "District": "Kannur",
+    "LSG": "Anjarakkandi",
+    "Ward": "7, 9, 10, 11,12, 13"
+  },
+  {
+    "No": 3,
+    "District": "Kannur",
+    "LSG": "Anthoor",
+    "Ward": "1, 3, 6, 11, 10, 24, 26"
+  },
+  {
+    "No": 4,
+    "District": "Kannur",
+    "LSG": "Aralam",
+    "Ward": 10
+  },
+  {
+    "No": 5,
+    "District": "Kannur",
+    "LSG": "Ayyankunnu",
+    "Ward": "6, 13, 14"
+  },
+  {
+    "No": 6,
+    "District": "Kannur",
+    "LSG": "Azeekkode",
+    "Ward": "4, 20, 23"
+  },
+  {
+    "No": 7,
+    "District": "Kannur",
+    "LSG": "Chapparappadav",
+    "Ward": "4, 5, 10, 11, 13"
+  },
+  {
+    "No": 8,
+    "District": "Kannur",
+    "LSG": "Chembilode",
+    "Ward": "3, 5,7, 9, 11, 14"
+  },
+  {
+    "No": 9,
+    "District": "Kannur",
+    "LSG": "Chengalayi",
+    "Ward": "1, 4, 10, 12"
+  },
+  {
+    "No": 10,
+    "District": "Kannur",
+    "LSG": "Cherupuzha",
+    "Ward": 6
+  },
+  {
+    "No": 11,
+    "District": "Kannur",
+    "LSG": "Cheruthazham",
+    "Ward": "2, 6, 7, 8, 9, 10, 15,16, 17"
+  },
+  {
+    "No": 12,
+    "District": "Kannur",
+    "LSG": "Chirakkal",
+    "Ward": "4, 6, 11, 20, 22"
+  },
+  {
+    "No": 13,
+    "District": "Kannur",
+    "LSG": "Chittaripparamba",
+    "Ward": "4, 7, 8, 13"
+  },
+  {
+    "No": 14,
+    "District": "Kannur",
+    "LSG": "Chokli",
+    "Ward": "5, 17"
+  },
+  {
+    "No": 15,
+    "District": "Kannur",
+    "LSG": "Contonment Board",
+    "Ward": "All wards"
+  },
+  {
+    "No": 16,
+    "District": "Kannur",
+    "LSG": "Darmadam",
+    "Ward": 15
+  },
+  {
+    "No": 17,
+    "District": "Kannur",
+    "LSG": "Eramam Kuttur",
+    "Ward": "5, 9, 10, 17"
+  },
+  {
+    "No": 18,
+    "District": "Kannur",
+    "LSG": "Ezhom",
+    "Ward": 4
+  },
+  {
+    "No": 19,
+    "District": "Kannur",
+    "LSG": "Irikkoor",
+    "Ward": "7, 8"
+  },
+  {
+    "No": 20,
+    "District": "Kannur",
+    "LSG": "Iritty (M)",
+    "Ward": "1, 2, 13, 16, 21, 23"
+  },
+  {
+    "No": 21,
+    "District": "Kannur",
+    "LSG": "Kadambur",
+    "Ward": "2 ,3, 13"
+  },
+  {
+    "No": 22,
+    "District": "Kannur",
+    "LSG": "Kadannappally Panappuzha",
+    "Ward": "1, 7, 10, 11, 12, 13, 14, 15"
+  },
+  {
+    "No": 23,
+    "District": "Kannur",
+    "LSG": "Kannapuram",
+    "Ward": 4
+  },
+  {
+    "No": 24,
+    "District": "Kannur",
+    "LSG": "Kannur (C)",
+    "Ward": "14, 17, 19, 20, 29, 30, 31, 39, 40, 41, 50, 54"
+  },
+  {
+    "No": 25,
+    "District": "Kannur",
+    "LSG": "Karivellur-Peralam",
+    "Ward": "6, 10"
+  },
+  {
+    "No": 26,
+    "District": "Kannur",
+    "LSG": "Kathiroor",
+    "Ward": "1, 2, 16"
+  },
+  {
+    "No": 27,
+    "District": "Kannur",
+    "LSG": "Keezhallur",
+    "Ward": "2, 7, 12"
+  },
+  {
+    "No": 28,
+    "District": "Kannur",
+    "LSG": "Kolayad",
+    "Ward": "7, 9, 10, 11, 13"
+  },
+  {
+    "No": 29,
+    "District": "Kannur",
+    "LSG": "Koodali",
+    "Ward": 15
+  },
+  {
+    "No": 30,
+    "District": "Kannur",
+    "LSG": "Koothuparamba (M)",
+    "Ward": "1, 5, 6, 7, 8, 10, 11, 12, 13, 18, 26"
+  },
+  {
+    "No": 31,
+    "District": "Kannur",
+    "LSG": "Kottayam-Malabar",
+    "Ward": "1, 2, 4, 11, 12, 14"
+  },
+  {
+    "No": 32,
+    "District": "Kannur",
+    "LSG": "Kottiyoor",
+    "Ward": "4, 6"
+  },
+  {
+    "No": 33,
+    "District": "Kannur",
+    "LSG": "Kunjimangalam",
+    "Ward": "2, 9, 12"
+  },
+  {
+    "No": 34,
+    "District": "Kannur",
+    "LSG": "Kunnothuparamba",
+    "Ward": "1, 3"
+  },
+  {
+    "No": 35,
+    "District": "Kannur",
+    "LSG": "Kurumathoor",
+    "Ward": "3, 10"
+  },
+  {
+    "No": 36,
+    "District": "Kannur",
+    "LSG": "Kuttiyattoor",
+    "Ward": 11
+  },
+  {
+    "No": 37,
+    "District": "Kannur",
+    "LSG": "Madai",
+    "Ward": 14
+  },
+  {
+    "No": 38,
+    "District": "Kannur",
+    "LSG": "Malappattam",
+    "Ward": "1, 7, 13"
+  },
+  {
+    "No": 39,
+    "District": "Kannur",
+    "LSG": "Maloor",
+    "Ward": "1, 2, 7, 11, 14"
+  },
+  {
+    "No": 40,
+    "District": "Kannur",
+    "LSG": "Mangattidam",
+    "Ward": "2, 3, 11"
+  },
+  {
+    "No": 41,
+    "District": "Kannur",
+    "LSG": "Mattannur (M)",
+    "Ward": "13, 15, 16, 17, 28"
+  },
+  {
+    "No": 42,
+    "District": "Kannur",
+    "LSG": "Mattool",
+    "Ward": 12
+  },
+  {
+    "No": 43,
+    "District": "Kannur",
+    "LSG": "Mayyil",
+    "Ward": "2, 6"
+  },
+  {
+    "No": 44,
+    "District": "Kannur",
+    "LSG": "Mokeri",
+    "Ward": 2
+  },
+  {
+    "No": 45,
+    "District": "Kannur",
+    "LSG": "Munderi",
+    "Ward": "1, 10, 11, 12, 20"
+  },
+  {
+    "No": 46,
+    "District": "Kannur",
+    "LSG": "Muzhakkunnu",
+    "Ward": "1, 2, 11"
+  },
+  {
+    "No": 47,
+    "District": "Kannur",
+    "LSG": "Muzhuppilangad",
+    "Ward": 6
+  },
+  {
+    "No": 48,
+    "District": "Kannur",
+    "LSG": "Narath",
+    "Ward": 13
+  },
+  {
+    "No": 49,
+    "District": "Kannur",
+    "LSG": "New mahe",
+    "Ward": 4
+  },
+  {
+    "No": 50,
+    "District": "Kannur",
+    "LSG": "Padiyoor",
+    "Ward": 1
+  },
+  {
+    "No": 51,
+    "District": "Kannur",
+    "LSG": "Panniannur",
+    "Ward": 2
+  },
+  {
+    "No": 52,
+    "District": "Kannur",
+    "LSG": "Panoor",
+    "Ward": "1, 5, 8, 9, 18, 21, 28, 30, 35, 39, 40"
+  },
+  {
+    "No": 53,
+    "District": "Kannur",
+    "LSG": "Pappinissery",
+    "Ward": "5, 18"
+  },
+  {
+    "No": 54,
+    "District": "Kannur",
+    "LSG": "Pariyaram",
+    "Ward": "6, 7, 16, 17"
+  },
+  {
+    "No": 55,
+    "District": "Kannur",
+    "LSG": "Pattuvam",
+    "Ward": "6, 8, 9"
+  },
+  {
+    "No": 56,
+    "District": "Kannur",
+    "LSG": "Payam",
+    "Ward": 12
+  },
+  {
+    "No": 57,
+    "District": "Kannur",
+    "LSG": "Payyannur (M)",
+    "Ward": "2, 3, 28"
+  },
+  {
+    "No": 58,
+    "District": "Kannur",
+    "LSG": "Peralassery",
+    "Ward": "6, 7"
+  },
+  {
+    "No": 59,
+    "District": "Kannur",
+    "LSG": "Peravoor",
+    "Ward": "8, 11, 16"
+  },
+  {
+    "No": 60,
+    "District": "Kannur",
+    "LSG": "Peringome-Vyakkara",
+    "Ward": "2,12"
+  },
+  {
+    "No": 61,
+    "District": "Kannur",
+    "LSG": "Pinarayi",
+    "Ward": "5, 7, 8, 11, 19"
+  },
+  {
+    "No": 62,
+    "District": "Kannur",
+    "LSG": "Ramanthali",
+    "Ward": 2
+  },
+  {
+    "No": 63,
+    "District": "Kannur",
+    "LSG": "Sreekandapuram (M)",
+    "Ward": "2, 21, 22, 25, 26"
+  },
+  {
+    "No": 64,
+    "District": "Kannur",
+    "LSG": "Thalassery (M)",
+    "Ward": "17, 27, 31"
+  },
+  {
+    "No": 65,
+    "District": "Kannur",
+    "LSG": "Thaliparamba (M)",
+    "Ward": "11, 12, 19, 21, 30"
+  },
+  {
+    "No": 66,
+    "District": "Kannur",
+    "LSG": "Thillankeri",
+    "Ward": "6, 7"
+  },
+  {
+    "No": 67,
+    "District": "Kannur",
+    "LSG": "Trippangottur",
+    "Ward": "1, 13, 17"
+  },
+  {
+    "No": 68,
+    "District": "Kannur",
+    "LSG": "Udayagiri",
+    "Ward": 6
+  },
+  {
+    "No": 69,
+    "District": "Kannur",
+    "LSG": "Valappattanam",
+    "Ward": "5, 8"
+  },
+  {
+    "No": 70,
+    "District": "Kannur",
+    "LSG": "Vengad",
+    "Ward": "9, 10, 12, 16"
+  },
+  {
+    "No": 71,
+    "District": "Kannur",
+    "LSG": "Cherukunnu",
+    "Ward": "6, 7"
+  },
+  {
+    "No": 72,
+    "District": "Kannur",
+    "LSG": "Eruvessi",
+    "Ward": 9
+  },
+  {
+    "No": 73,
+    "District": "Kannur",
+    "LSG": "Ulikkal",
+    "Ward": 1
+  },
+  {
+    "No": 74,
+    "District": "Kannur",
+    "LSG": "Naduvil",
+    "Ward": 2
+  },
+  {
+    "No": 75,
+    "District": "Kozhikkode",
+    "LSG": "Atholi",
+    "Ward": 2
+  },
+  {
+    "No": 76,
+    "District": "Kozhikkode",
+    "LSG": "Ayanchery",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 77,
+    "District": "Kozhikkode",
+    "LSG": "Azhiyur",
+    "Ward": "6, 10, 15, 13"
+  },
+  {
+    "No": 78,
+    "District": "Kozhikkode",
+    "LSG": "Changaroth",
+    "Ward": "1, 2, 3, 4"
+  },
+  {
+    "No": 79,
+    "District": "Kozhikkode",
+    "LSG": "Chathamangalam",
+    "Ward": "1, 3, 4, 5, 17,18, 19"
+  },
+  {
+    "No": 80,
+    "District": "Kozhikkode",
+    "LSG": "Chekyad",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 81,
+    "District": "Kozhikkode",
+    "LSG": "Chelannur",
+    "Ward": "7, 12, 13"
+  },
+  {
+    "No": 82,
+    "District": "Kozhikkode",
+    "LSG": "Chengottukavu",
+    "Ward": "2, 16"
+  },
+  {
+    "No": 83,
+    "District": "Kozhikkode",
+    "LSG": "Cherode",
+    "Ward": "1, 4, 8,10,12"
+  },
+  {
+    "No": 84,
+    "District": "Kozhikkode",
+    "LSG": "Cheruvannur",
+    "Ward": 7
+  },
+  {
+    "No": 85,
+    "District": "Kozhikkode",
+    "LSG": "Edachery",
+    "Ward": "13, 15, 16"
+  },
+  {
+    "No": 86,
+    "District": "Kozhikkode",
+    "LSG": "Eramala",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 87,
+    "District": "Kozhikkode",
+    "LSG": "Faroke (M)",
+    "Ward": "15, 16, 18, 30"
+  },
+  {
+    "No": 88,
+    "District": "Kozhikkode",
+    "LSG": "Kadalundi",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 89,
+    "District": "Kozhikkode",
+    "LSG": "Kakkodi",
+    "Ward": "7, 12,16"
+  },
+  {
+    "No": 90,
+    "District": "Kozhikkode",
+    "LSG": "Kakkoor",
+    "Ward": 6
+  },
+  {
+    "No": 91,
+    "District": "Kozhikkode",
+    "LSG": "Karuvattoor",
+    "Ward": "2, 4"
+  },
+  {
+    "No": 92,
+    "District": "Kozhikkode",
+    "LSG": "Kayakkodi",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 93,
+    "District": "Kozhikkode",
+    "LSG": "Kodanchery",
+    "Ward": "4, 8, 14, 15"
+  },
+  {
+    "No": 94,
+    "District": "Kozhikkode",
+    "LSG": "Kodiyathur",
+    "Ward": "5, 6"
+  },
+  {
+    "No": 95,
+    "District": "Kozhikkode",
+    "LSG": "Koduvally (M)",
+    "Ward": "13, 15, 25, 28, 29, 30, 36"
+  },
+  {
+    "No": 96,
+    "District": "Kozhikkode",
+    "LSG": "Koodaranji",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 97,
+    "District": "Kozhikkode",
+    "LSG": "Koyilandi (M)",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 98,
+    "District": "Kozhikkode",
+    "LSG": "Kozhikkode ?",
+    "Ward": "8, 11(Sub ward), 13, 15, 16, 19, 21, 22, 32, 34, 38, 39, 40, 42, 46, 47,49, 51,54, 56, 57, 58, 59(Sub ward),61, 62, 66, 70, 72, 74(Sub ward)"
+  },
+  {
+    "No": 99,
+    "District": "Kozhikkode",
+    "LSG": "Kunnamangalam",
+    "Ward": "8, 9, 16, 21"
+  },
+  {
+    "No": 100,
+    "District": "Kozhikkode",
+    "LSG": "Kuttiyadi",
+    "Ward": 3
+  },
+  {
+    "No": 101,
+    "District": "Kozhikkode",
+    "LSG": "Maniyoor",
+    "Ward": 1
+  },
+  {
+    "No": 102,
+    "District": "Kozhikkode",
+    "LSG": "Maruthongara",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 103,
+    "District": "Kozhikkode",
+    "LSG": "Mavoor",
+    "Ward": "4, 5, 7, 15"
+  },
+  {
+    "No": 104,
+    "District": "Kozhikkode",
+    "LSG": "Meppayoor",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 105,
+    "District": "Kozhikkode",
+    "LSG": "Mukkom ( M)",
+    "Ward": "17, 18"
+  },
+  {
+    "No": 106,
+    "District": "Kozhikkode",
+    "LSG": "Nadapuram",
+    "Ward": "9, 11, 13, 16, 17, 21"
+  },
+  {
+    "No": 107,
+    "District": "Kozhikkode",
+    "LSG": "Nanmanda",
+    "Ward": "7, 14"
+  },
+  {
+    "No": 108,
+    "District": "Kozhikkode",
+    "LSG": "Olavanna",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 109,
+    "District": "Kozhikkode",
+    "LSG": "Omassery",
+    "Ward": "6, 7, 8, 9, 10, 15, 17"
+  },
+  {
+    "No": 110,
+    "District": "Kozhikkode",
+    "LSG": "Onchiyam",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 111,
+    "District": "Kozhikkode",
+    "LSG": "Payyoli (M)",
+    "Ward": "20, 31"
+  },
+  {
+    "No": 112,
+    "District": "Kozhikkode",
+    "LSG": "Perumanna",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 113,
+    "District": "Kozhikkode",
+    "LSG": "Peruvayal",
+    "Ward": "3, 7, 13"
+  },
+  {
+    "No": 114,
+    "District": "Kozhikkode",
+    "LSG": "Purameri",
+    "Ward": "2, 3, 13, 15"
+  },
+  {
+    "No": 115,
+    "District": "Kozhikkode",
+    "LSG": "Puthuppady",
+    "Ward": "1, 2, 14, 17"
+  },
+  {
+    "No": 116,
+    "District": "Kozhikkode",
+    "LSG": "Ramanattukara (M)",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 117,
+    "District": "Kozhikkode",
+    "LSG": "Thamarassery",
+    "Ward": 9
+  },
+  {
+    "No": 118,
+    "District": "Kozhikkode",
+    "LSG": "Thikkodi",
+    "Ward": 7
+  },
+  {
+    "No": 119,
+    "District": "Kozhikkode",
+    "LSG": "Thiruvalloor",
+    "Ward": "5, 6, 10, 11, 12, 14, 15"
+  },
+  {
+    "No": 120,
+    "District": "Kozhikkode",
+    "LSG": "Tuneri",
+    "Ward": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15"
+  },
+  {
+    "No": 121,
+    "District": "Kozhikkode",
+    "LSG": "Ulliyeri",
+    "Ward": 10
+  },
+  {
+    "No": 122,
+    "District": "Kozhikkode",
+    "LSG": "Unnikkulam",
+    "Ward": "12, 16"
+  },
+  {
+    "No": 123,
+    "District": "Kozhikkode",
+    "LSG": "Vaanimel",
+    "Ward": "12, 15"
+  },
+  {
+    "No": 124,
+    "District": "Kozhikkode",
+    "LSG": "Vadakara (M)",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 125,
+    "District": "Kozhikkode",
+    "LSG": "Valayam",
+    "Ward": "1, 11, 12, 13, 14"
+  },
+  {
+    "No": 126,
+    "District": "Kozhikkode",
+    "LSG": "Velam",
+    "Ward": "8, 9"
+  },
+  {
+    "No": 127,
+    "District": "Kozhikkode",
+    "LSG": "Villiappally",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 128,
+    "District": "Kozhikkode",
+    "LSG": "Perambra",
+    "Ward": "1, 3, 6(Sub Ward),12(Sub Ward)"
+  },
+  {
+    "No": 129,
+    "District": "Kozhikkode",
+    "LSG": "Keezhariyur",
+    "Ward": 10
+  },
+  {
+    "No": 130,
+    "District": "Kozhikkode",
+    "LSG": "Naripatta",
+    "Ward": 14
+  },
+  {
+    "No": 131,
+    "District": "Kozhikkode",
+    "LSG": "Panangad",
+    "Ward": "13, 16"
+  },
+  {
+    "No": 132,
+    "District": "Kozhikkode",
+    "LSG": "Kunnummal",
+    "Ward": "4, 11"
+  },
+  {
+    "No": 133,
+    "District": "Kozhikkode",
+    "LSG": "Madavoor",
+    "Ward": "8, 13"
+  },
+  {
+    "No": 134,
+    "District": "Kozhikkode",
+    "LSG": "Naduvannoor",
+    "Ward": "4, 5"
+  },
+  {
+    "No": 135,
+    "District": "Kozhikkode",
+    "LSG": "Thalakkulathur",
+    "Ward": 10
+  },
+  {
+    "No": 136,
+    "District": "Ernakulam",
+    "LSG": "Alangad",
+    "Ward": "12, 15"
+  },
+  {
+    "No": 137,
+    "District": "Ernakulam",
+    "LSG": "Aluva (M)",
+    "Ward": "11, 12, 13, 15, 24, 25,26"
+  },
+  {
+    "No": 138,
+    "District": "Ernakulam",
+    "LSG": "Ambaloor",
+    "Ward": "2, 10, 12"
+  },
+  {
+    "No": 139,
+    "District": "Ernakulam",
+    "LSG": "Chellanam",
+    "Ward": "7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21"
+  },
+  {
+    "No": 140,
+    "District": "Ernakulam",
+    "LSG": "Chengamanad",
+    "Ward": "8, 18"
+  },
+  {
+    "No": 141,
+    "District": "Ernakulam",
+    "LSG": "Chennamangalam",
+    "Ward": 9
+  },
+  {
+    "No": 142,
+    "District": "Ernakulam",
+    "LSG": "Cheranalloor",
+    "Ward": "2, 4, 15, 16, 17"
+  },
+  {
+    "No": 143,
+    "District": "Ernakulam",
+    "LSG": "Chittatukara",
+    "Ward": "7, 9(Sub Ward)"
+  },
+  {
+    "No": 144,
+    "District": "Ernakulam",
+    "LSG": "Choornikkara",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 145,
+    "District": "Ernakulam",
+    "LSG": "Edathala",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 146,
+    "District": "Ernakulam",
+    "LSG": "Edavanakkad",
+    "Ward": "12, 13"
+  },
+  {
+    "No": 147,
+    "District": "Ernakulam",
+    "LSG": "Elankunnapuzha",
+    "Ward": "14, 15 (Sub Wards), 6"
+  },
+  {
+    "No": 148,
+    "District": "Ernakulam",
+    "LSG": "Eloor",
+    "Ward": "6, 9, 14, 30 (Sub Wards),9,27"
+  },
+  {
+    "No": 149,
+    "District": "Ernakulam",
+    "LSG": "Ezhikkara",
+    "Ward": "8, 9"
+  },
+  {
+    "No": 150,
+    "District": "Ernakulam",
+    "LSG": "Kadungalloor",
+    "Ward": "3, 5, 7, 12, 14, 15, 18"
+  },
+  {
+    "No": 151,
+    "District": "Ernakulam",
+    "LSG": "Kalady",
+    "Ward": "5, 17"
+  },
+  {
+    "No": 152,
+    "District": "Ernakulam",
+    "LSG": "Kalamassery (M)",
+    "Ward": "1, 2, 3, 6, 16, 29, 30, 31, 32, 33, 34, 35, 36, 37, 41, 14(Sub Ward)"
+  },
+  {
+    "No": 153,
+    "District": "Ernakulam",
+    "LSG": "Karumalloor",
+    "Ward": "11(Sub Ward)"
+  },
+  {
+    "No": 154,
+    "District": "Ernakulam",
+    "LSG": "Keezhumad",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 155,
+    "District": "Ernakulam",
+    "LSG": "Kochi ?",
+    "Ward": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13,14, 15, 16, 17, 18,20, 21, 22, 23, 24, 25,26, 27, 28, 31, 33, 36, 52, 58, 70 , 19,21,41,43, 44, 50,67 (SubWards)"
+  },
+  {
+    "No": 156,
+    "District": "Ernakulam",
+    "LSG": "Koothattukulam (M)",
+    "Ward": "5, 9"
+  },
+  {
+    "No": 157,
+    "District": "Ernakulam",
+    "LSG": "Kottappady",
+    "Ward": "6, 7, 12"
+  },
+  {
+    "No": 158,
+    "District": "Ernakulam",
+    "LSG": "Kottuvally",
+    "Ward": "11, 17,21(Sub Ward)"
+  },
+  {
+    "No": 159,
+    "District": "Ernakulam",
+    "LSG": "Kumbalangi",
+    "Ward": "5(Sub Ward)"
+  },
+  {
+    "No": 160,
+    "District": "Ernakulam",
+    "LSG": "Kunnathunadu",
+    "Ward": "4, 15(Sub Ward)"
+  },
+  {
+    "No": 161,
+    "District": "Ernakulam",
+    "LSG": "Kuttampuzha",
+    "Ward": "4, 5, 14, 15"
+  },
+  {
+    "No": 162,
+    "District": "Ernakulam",
+    "LSG": "Maradu (M)",
+    "Ward": "23, 24, 25 (Sub ward)"
+  },
+  {
+    "No": 163,
+    "District": "Ernakulam",
+    "LSG": "Moovattupuzha (M)",
+    "Ward": "1, 21, 28 (Pezhakkappilly Market )"
+  },
+  {
+    "No": 164,
+    "District": "Ernakulam",
+    "LSG": "Nayarambalam",
+    "Ward": "7 (Sub Ward)"
+  },
+  {
+    "No": 165,
+    "District": "Ernakulam",
+    "LSG": "Nedumbassery",
+    "Ward": "15(Sub Ward)"
+  },
+  {
+    "No": 166,
+    "District": "Ernakulam",
+    "LSG": "Nellikuzhy",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 167,
+    "District": "Ernakulam",
+    "LSG": "Njarakkal",
+    "Ward": "3, 9, 10"
+  },
+  {
+    "No": 168,
+    "District": "Ernakulam",
+    "LSG": "Pindimana",
+    "Ward": 8
+  },
+  {
+    "No": 169,
+    "District": "Ernakulam",
+    "LSG": "Poothrika",
+    "Ward": "5, 12"
+  },
+  {
+    "No": 170,
+    "District": "Ernakulam",
+    "LSG": "Puthenvelikkara",
+    "Ward": 9
+  },
+  {
+    "No": 171,
+    "District": "Ernakulam",
+    "LSG": "Rayamangalam",
+    "Ward": 4
+  },
+  {
+    "No": 172,
+    "District": "Ernakulam",
+    "LSG": "Thrikkakkara (M)",
+    "Ward": "1, 2, 3, 4, 5, 35, 40, 41, 42, 12 (Sub Ward)"
+  },
+  {
+    "No": 173,
+    "District": "Ernakulam",
+    "LSG": "Thuravur",
+    "Ward": "4, 9, 14"
+  },
+  {
+    "No": 174,
+    "District": "Ernakulam",
+    "LSG": "Tripunithura (M)",
+    "Ward": "13, 38 (Sub Wards)"
+  },
+  {
+    "No": 175,
+    "District": "Ernakulam",
+    "LSG": "Vadakkekkara",
+    "Ward": 1
+  },
+  {
+    "No": 176,
+    "District": "Ernakulam",
+    "LSG": "Varapetty",
+    "Ward": "6, 11"
+  },
+  {
+    "No": 177,
+    "District": "Ernakulam",
+    "LSG": "Varappuzha",
+    "Ward": "14 (Sub Ward )"
+  },
+  {
+    "No": 178,
+    "District": "Ernakulam",
+    "LSG": "Vazhakkulam",
+    "Ward": "1, 2, 10"
+  },
+  {
+    "No": 179,
+    "District": "Ernakulam",
+    "LSG": "Vengola",
+    "Ward": "1, 7"
+  },
+  {
+    "No": 180,
+    "District": "Ernakulam",
+    "LSG": "Edakkattuvayal",
+    "Ward": 7
+  },
+  {
+    "No": 181,
+    "District": "Ernakulam",
+    "LSG": "Keerampara",
+    "Ward": 11
+  },
+  {
+    "No": 182,
+    "District": "Ernakulam",
+    "LSG": "Paingottoor",
+    "Ward": 13
+  },
+  {
+    "No": 183,
+    "District": "Ernakulam",
+    "LSG": "Kavalangad",
+    "Ward": 9
+  },
+  {
+    "No": 184,
+    "District": "Ernakulam",
+    "LSG": "Paipra",
+    "Ward": 8
+  },
+  {
+    "No": 185,
+    "District": "Ernakulam",
+    "LSG": "Mudakkuzha",
+    "Ward": 8
+  },
+  {
+    "No": 186,
+    "District": "Ernakulam",
+    "LSG": "Kizhakkambalam",
+    "Ward": 7
+  },
+  {
+    "No": 187,
+    "District": "Ernakulam",
+    "LSG": "Aayavana",
+    "Ward": 4
+  },
+  {
+    "No": 188,
+    "District": "Thiruvananthapuram",
+    "LSG": "Anchuthengu",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 189,
+    "District": "Thiruvananthapuram",
+    "LSG": "Aryanad",
+    "Ward": "4, 16, 17, 18"
+  },
+  {
+    "No": 190,
+    "District": "Thiruvananthapuram",
+    "LSG": "Azhoor",
+    "Ward": "15,18"
+  },
+  {
+    "No": 191,
+    "District": "Thiruvananthapuram",
+    "LSG": "Balaramapuram",
+    "Ward": "5, 7, 13, 15, 17, 19"
+  },
+  {
+    "No": 192,
+    "District": "Thiruvananthapuram",
+    "LSG": "Chemmaruthy",
+    "Ward": 12
+  },
+  {
+    "No": 193,
+    "District": "Thiruvananthapuram",
+    "LSG": "Chenkal",
+    "Ward": "3, 4, 12, 13, 14"
+  },
+  {
+    "No": 194,
+    "District": "Thiruvananthapuram",
+    "LSG": "Chirayinkeezhu",
+    "Ward": "10, 11, 12, 13, 14, 15"
+  },
+  {
+    "No": 195,
+    "District": "Thiruvananthapuram",
+    "LSG": "Edava",
+    "Ward": "1, 11, 12, 13, 14, 17"
+  },
+  {
+    "No": 196,
+    "District": "Thiruvananthapuram",
+    "LSG": "Kadakkavoor",
+    "Ward": "8, 9"
+  },
+  {
+    "No": 197,
+    "District": "Thiruvananthapuram",
+    "LSG": "Kadinamkulam",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 198,
+    "District": "Thiruvananthapuram",
+    "LSG": "Kallikkad",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 199,
+    "District": "Thiruvananthapuram",
+    "LSG": "Karakulam",
+    "Ward": 16
+  },
+  {
+    "No": 200,
+    "District": "Thiruvananthapuram",
+    "LSG": "Karavaram",
+    "Ward": 6
+  },
+  {
+    "No": 201,
+    "District": "Thiruvananthapuram",
+    "LSG": "Karode",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 202,
+    "District": "Thiruvananthapuram",
+    "LSG": "Karumkulam",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 203,
+    "District": "Thiruvananthapuram",
+    "LSG": "Kattakkada",
+    "Ward": "5, 7, 8, 10, 13, 16"
+  },
+  {
+    "No": 204,
+    "District": "Thiruvananthapuram",
+    "LSG": "Kilimanoor",
+    "Ward": "8, 12"
+  },
+  {
+    "No": 205,
+    "District": "Thiruvananthapuram",
+    "LSG": "Kizhuvillam",
+    "Ward": "7,8, 10, 18"
+  },
+  {
+    "No": 206,
+    "District": "Thiruvananthapuram",
+    "LSG": "Kollayil",
+    "Ward": "9, 12, 14, 16"
+  },
+  {
+    "No": 207,
+    "District": "Thiruvananthapuram",
+    "LSG": "kottukal",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 208,
+    "District": "Thiruvananthapuram",
+    "LSG": "Kulathur",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 209,
+    "District": "Thiruvananthapuram",
+    "LSG": "Kunnathukal",
+    "Ward": "All wards"
+  },
+  {
+    "No": 210,
+    "District": "Thiruvananthapuram",
+    "LSG": "Maranaloor",
+    "Ward": "3, 13, 17"
+  },
+  {
+    "No": 211,
+    "District": "Thiruvananthapuram",
+    "LSG": "Nanniyode",
+    "Ward": "4, 12"
+  },
+  {
+    "No": 212,
+    "District": "Thiruvananthapuram",
+    "LSG": "Neyyattinkara (M)",
+    "Ward": "4, 6, 11, 12, 19, 39"
+  },
+  {
+    "No": 213,
+    "District": "Thiruvananthapuram",
+    "LSG": "Ottasekharamangalam",
+    "Ward": "1, 8"
+  },
+  {
+    "No": 214,
+    "District": "Thiruvananthapuram",
+    "LSG": "Pallichal",
+    "Ward": "3, 4"
+  },
+  {
+    "No": 215,
+    "District": "Thiruvananthapuram",
+    "LSG": "Panavoor",
+    "Ward": "4, 7, 10,11"
+  },
+  {
+    "No": 216,
+    "District": "Thiruvananthapuram",
+    "LSG": "Parasala",
+    "Ward": "All wards"
+  },
+  {
+    "No": 217,
+    "District": "Thiruvananthapuram",
+    "LSG": "Pazhayakunnumel",
+    "Ward": "1, 2, 5"
+  },
+  {
+    "No": 218,
+    "District": "Thiruvananthapuram",
+    "LSG": "Peringammala",
+    "Ward": "1, 3, 16,17, 18, 19"
+  },
+  {
+    "No": 219,
+    "District": "Thiruvananthapuram",
+    "LSG": "Perumkadavila",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 220,
+    "District": "Thiruvananthapuram",
+    "LSG": "Poovachal",
+    "Ward": "2, 3, 5, 15, 17, 18, 21, 22"
+  },
+  {
+    "No": 221,
+    "District": "Thiruvananthapuram",
+    "LSG": "Poovar",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 222,
+    "District": "Thiruvananthapuram",
+    "LSG": "Thiruvananthapuram (C)",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 223,
+    "District": "Thiruvananthapuram",
+    "LSG": "Vakkom",
+    "Ward": "6, 9, 12, 13, 14"
+  },
+  {
+    "No": 224,
+    "District": "Thiruvananthapuram",
+    "LSG": "Varkkala (M)",
+    "Ward": "1, 20, 21, 22, 27, 28"
+  },
+  {
+    "No": 225,
+    "District": "Thiruvananthapuram",
+    "LSG": "Venganoor",
+    "Ward": 9
+  },
+  {
+    "No": 226,
+    "District": "Thiruvananthapuram",
+    "LSG": "Vettoor",
+    "Ward": "1, 11, 12, 13, 14"
+  },
+  {
+    "No": 227,
+    "District": "Thiruvananthapuram",
+    "LSG": "Vilappil",
+    "Ward": "10, 20"
+  },
+  {
+    "No": 228,
+    "District": "Thiruvananthapuram",
+    "LSG": "Vellarda",
+    "Ward": "8, 9"
+  },
+  {
+    "No": 229,
+    "District": "Thiruvananthapuram",
+    "LSG": "Vamanapuram",
+    "Ward": 14
+  },
+  {
+    "No": 230,
+    "District": "Thiruvananthapuram",
+    "LSG": "Mudakkal",
+    "Ward": 20
+  },
+  {
+    "No": 231,
+    "District": "Thiruvananthapuram",
+    "LSG": "Kalliyoor",
+    "Ward": 13
+  },
+  {
+    "No": 232,
+    "District": "Thiruvananthapuram",
+    "LSG": "Kuttichal",
+    "Ward": "10, 11, 12, 14"
+  },
+  {
+    "No": 233,
+    "District": "Palakkad",
+    "LSG": "Alanalloor",
+    "Ward": "1, 2, 9, 11, 12, 13"
+  },
+  {
+    "No": 234,
+    "District": "Palakkad",
+    "LSG": "Anakkara",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 235,
+    "District": "Palakkad",
+    "LSG": "Chittoor Tattamangalam",
+    "Ward": 9
+  },
+  {
+    "No": 236,
+    "District": "Palakkad",
+    "LSG": "Elappully",
+    "Ward": 16
+  },
+  {
+    "No": 237,
+    "District": "Palakkad",
+    "LSG": "Karakkurissi",
+    "Ward": "12, 15"
+  },
+  {
+    "No": 238,
+    "District": "Palakkad",
+    "LSG": "Karimba",
+    "Ward": "1, 6, 9"
+  },
+  {
+    "No": 239,
+    "District": "Palakkad",
+    "LSG": "Koduvayoor",
+    "Ward": 4
+  },
+  {
+    "No": 240,
+    "District": "Palakkad",
+    "LSG": "Kongad",
+    "Ward": 6
+  },
+  {
+    "No": 241,
+    "District": "Palakkad",
+    "LSG": "Koppam",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 242,
+    "District": "Palakkad",
+    "LSG": "Kottoppadam",
+    "Ward": 16
+  },
+  {
+    "No": 243,
+    "District": "Palakkad",
+    "LSG": "Kozhinjampara",
+    "Ward": "5, 6, 7, 8, 10"
+  },
+  {
+    "No": 244,
+    "District": "Palakkad",
+    "LSG": "Kulukkallur",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 245,
+    "District": "Palakkad",
+    "LSG": "Kumaramputhur",
+    "Ward": "9, 10, 11, 12"
+  },
+  {
+    "No": 246,
+    "District": "Palakkad",
+    "LSG": "Muthuthala",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 247,
+    "District": "Palakkad",
+    "LSG": "Nagalassery",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 248,
+    "District": "Palakkad",
+    "LSG": "Nellaya",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 249,
+    "District": "Palakkad",
+    "LSG": "Ongallur",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 250,
+    "District": "Palakkad",
+    "LSG": "Ottappalam (M)",
+    "Ward": "7, 18"
+  },
+  {
+    "No": 251,
+    "District": "Palakkad",
+    "LSG": "Paruthoor",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 252,
+    "District": "Palakkad",
+    "LSG": "Pattambi (M)",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 253,
+    "District": "Palakkad",
+    "LSG": "Pattithara",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 254,
+    "District": "Palakkad",
+    "LSG": "Peruvemb",
+    "Ward": "1, 12"
+  },
+  {
+    "No": 255,
+    "District": "Palakkad",
+    "LSG": "Polpulli",
+    "Ward": 11
+  },
+  {
+    "No": 256,
+    "District": "Palakkad",
+    "LSG": "Puthunagaram",
+    "Ward": "1, 2, 3, 6, 7"
+  },
+  {
+    "No": 257,
+    "District": "Palakkad",
+    "LSG": "Puthussery",
+    "Ward": "14, 15, 17"
+  },
+  {
+    "No": 258,
+    "District": "Palakkad",
+    "LSG": "Shornur",
+    "Ward": 25
+  },
+  {
+    "No": 259,
+    "District": "Palakkad",
+    "LSG": "Thengara",
+    "Ward": "1, 9, 10, 16, 17"
+  },
+  {
+    "No": 260,
+    "District": "Palakkad",
+    "LSG": "Thiruvegappura",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 261,
+    "District": "Palakkad",
+    "LSG": "Vallappuzha",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 262,
+    "District": "Palakkad",
+    "LSG": "Vaniyamkulam",
+    "Ward": 6
+  },
+  {
+    "No": 263,
+    "District": "Palakkad",
+    "LSG": "Ambalappara",
+    "Ward": 17
+  },
+  {
+    "No": 264,
+    "District": "Palakkad",
+    "LSG": "Karimpuzha",
+    "Ward": 17
+  },
+  {
+    "No": 265,
+    "District": "Palakkad",
+    "LSG": "Vadakkachery",
+    "Ward": "12, 13, 14"
+  },
+  {
+    "No": 266,
+    "District": "Palakkad",
+    "LSG": "Mundoor",
+    "Ward": 1
+  },
+  {
+    "No": 267,
+    "District": "Palakkad",
+    "LSG": "Mannarkkad (M)",
+    "Ward": "1(Sub Ward), 7, 13, 18"
+  },
+  {
+    "No": 268,
+    "District": "Palakkad",
+    "LSG": "Palakkad (M)",
+    "Ward": 51
+  },
+  {
+    "No": 269,
+    "District": "Palakkad",
+    "LSG": "Peringottukurissi",
+    "Ward": "1, 4, 6, 7, 11"
+  },
+  {
+    "No": 270,
+    "District": "Palakkad",
+    "LSG": "Elavanchery",
+    "Ward": "9, 10, 11"
+  },
+  {
+    "No": 271,
+    "District": "Palakkad",
+    "LSG": "Pirayiri",
+    "Ward": 16
+  },
+  {
+    "No": 272,
+    "District": "Palakkad",
+    "LSG": "Puthuppariyaram",
+    "Ward": "6, 12"
+  },
+  {
+    "No": 273,
+    "District": "Palakkad",
+    "LSG": "Thachampara",
+    "Ward": 10
+  },
+  {
+    "No": 274,
+    "District": "Kollam",
+    "LSG": "Aadichanallor",
+    "Ward": "5(Sub ward), 9, 11"
+  },
+  {
+    "No": 275,
+    "District": "Kollam",
+    "LSG": "Alappad",
+    "Ward": "2, 4, 15"
+  },
+  {
+    "No": 276,
+    "District": "Kollam",
+    "LSG": "Alayamon",
+    "Ward": 1
+  },
+  {
+    "No": 277,
+    "District": "Kollam",
+    "LSG": "Anchal",
+    "Ward": "10, 13, 14, 19"
+  },
+  {
+    "No": 278,
+    "District": "Kollam",
+    "LSG": "Aryankavu",
+    "Ward": "4 (Aryankavu), 5 (Aryankavu Temple)"
+  },
+  {
+    "No": 279,
+    "District": "Kollam",
+    "LSG": "Chadayamangalam",
+    "Ward": "5, 7, 9, 10"
+  },
+  {
+    "No": 280,
+    "District": "Kollam",
+    "LSG": "Chavara",
+    "Ward": "6, 7, 8, 9, 11, 12, 13, 14, 18"
+  },
+  {
+    "No": 281,
+    "District": "Kollam",
+    "LSG": "Clappana",
+    "Ward": 15
+  },
+  {
+    "No": 282,
+    "District": "Kollam",
+    "LSG": "Edamulakkal",
+    "Ward": "9 (Sub Ward)"
+  },
+  {
+    "No": 283,
+    "District": "Kollam",
+    "LSG": "Ezhukone",
+    "Ward": 7
+  },
+  {
+    "No": 284,
+    "District": "Kollam",
+    "LSG": "Ilamad",
+    "Ward": 9
+  },
+  {
+    "No": 285,
+    "District": "Kollam",
+    "LSG": "Ittiva",
+    "Ward": "2, 4, 5, 12, 20"
+  },
+  {
+    "No": 286,
+    "District": "Kollam",
+    "LSG": "Karavaloor",
+    "Ward": "1, 9, 10, 11, 15, 16"
+  },
+  {
+    "No": 287,
+    "District": "Kollam",
+    "LSG": "Kollam (C)",
+    "Ward": "3, 15(Sub Ward), 31"
+  },
+  {
+    "No": 288,
+    "District": "Kollam",
+    "LSG": "Kottankara",
+    "Ward": 10
+  },
+  {
+    "No": 289,
+    "District": "Kollam",
+    "LSG": "Kottarakkara (M)",
+    "Ward": "1, 2, 3, 7"
+  },
+  {
+    "No": 290,
+    "District": "Kollam",
+    "LSG": "Kulasekharam",
+    "Ward": "8, 9, 10, 11, 21"
+  },
+  {
+    "No": 291,
+    "District": "Kollam",
+    "LSG": "Kulathooppuzha",
+    "Ward": "3, 4, 8, 9, 13, 14, 15, 16"
+  },
+  {
+    "No": 292,
+    "District": "Kollam",
+    "LSG": "Kummil",
+    "Ward": "2, 7, 13(Sub Ward)"
+  },
+  {
+    "No": 293,
+    "District": "Kollam",
+    "LSG": "Mailam",
+    "Ward": "2, 11, 13, 16"
+  },
+  {
+    "No": 294,
+    "District": "Kollam",
+    "LSG": "Neduvathur",
+    "Ward": "4, 5,7, 8, 11"
+  },
+  {
+    "No": 295,
+    "District": "Kollam",
+    "LSG": "Paravur (M)",
+    "Ward": "17, 18, 19, 20, 21, 22, 23"
+  },
+  {
+    "No": 296,
+    "District": "Kollam",
+    "LSG": "Pathanapuram",
+    "Ward": "12, 13, 14, 15"
+  },
+  {
+    "No": 297,
+    "District": "Kollam",
+    "LSG": "Pattazhi",
+    "Ward": "3, 10"
+  },
+  {
+    "No": 298,
+    "District": "Kollam",
+    "LSG": "Pooyappally",
+    "Ward": "10, 11, 12, 13, 14"
+  },
+  {
+    "No": 299,
+    "District": "Kollam",
+    "LSG": "Punaloor (M)",
+    "Ward": "6, 15, 16"
+  },
+  {
+    "No": 300,
+    "District": "Kollam",
+    "LSG": "Sooranad South",
+    "Ward": 12
+  },
+  {
+    "No": 301,
+    "District": "Kollam",
+    "LSG": "Thalavoor",
+    "Ward": "15, 19, 20"
+  },
+  {
+    "No": 302,
+    "District": "Kollam",
+    "LSG": "Thazhava",
+    "Ward": "18, 19, 20, 21"
+  },
+  {
+    "No": 303,
+    "District": "Kollam",
+    "LSG": "Thenmala",
+    "Ward": "5, 11"
+  },
+  {
+    "No": 304,
+    "District": "Kollam",
+    "LSG": "Thevalakkara",
+    "Ward": 17
+  },
+  {
+    "No": 305,
+    "District": "Kollam",
+    "LSG": "Thodiyoor",
+    "Ward": "15, 16, 19, 20"
+  },
+  {
+    "No": 306,
+    "District": "Kollam",
+    "LSG": "Thrikkaruva",
+    "Ward": "12, 15"
+  },
+  {
+    "No": 307,
+    "District": "Kollam",
+    "LSG": "Ummannoor",
+    "Ward": 10
+  },
+  {
+    "No": 308,
+    "District": "Kollam",
+    "LSG": "Vilakkudi",
+    "Ward": "10, 12"
+  },
+  {
+    "No": 309,
+    "District": "Kollam",
+    "LSG": "Yeroor",
+    "Ward": "11, 12"
+  },
+  {
+    "No": 310,
+    "District": "Kollam",
+    "LSG": "Velinelloor",
+    "Ward": "1, 6, 16"
+  },
+  {
+    "No": 311,
+    "District": "Kollam",
+    "LSG": "Neendakara",
+    "Ward": "2, 3, 12"
+  },
+  {
+    "No": 312,
+    "District": "Kollam",
+    "LSG": "Manrothuruth",
+    "Ward": 9
+  },
+  {
+    "No": 313,
+    "District": "Kollam",
+    "LSG": "Thrikkovilvattam",
+    "Ward": "1, 22, 23"
+  },
+  {
+    "No": 314,
+    "District": "Kasargode",
+    "LSG": "Ajanur",
+    "Ward": "1, 4, 6, 15, 16, 18, 17, 22"
+  },
+  {
+    "No": 315,
+    "District": "Kasargode",
+    "LSG": "Badiadka",
+    "Ward": "1, 2, 7, 9,12, 15, 18, 19"
+  },
+  {
+    "No": 316,
+    "District": "Kasargode",
+    "LSG": "Balal",
+    "Ward": "3, 11, 14"
+  },
+  {
+    "No": 317,
+    "District": "Kasargode",
+    "LSG": "Bellur",
+    "Ward": "1, 10, 11"
+  },
+  {
+    "No": 318,
+    "District": "Kasargode",
+    "LSG": "Chemnad",
+    "Ward": "1, 2, 3, 5, 7, 8, 11, 13,18, 19, 21"
+  },
+  {
+    "No": 319,
+    "District": "Kasargode",
+    "LSG": "Chengala",
+    "Ward": "1, 4, 5, 7, 8, 9, 10,11, 13, 14, 17, 19, 20 ,21, 23"
+  },
+  {
+    "No": 320,
+    "District": "Kasargode",
+    "LSG": "Cheruvathur",
+    "Ward": "4, 10, 15, 17"
+  },
+  {
+    "No": 321,
+    "District": "Kasargode",
+    "LSG": "East Eleri",
+    "Ward": "14, 15"
+  },
+  {
+    "No": 322,
+    "District": "Kasargode",
+    "LSG": "Enmakaje",
+    "Ward": "3, 9"
+  },
+  {
+    "No": 323,
+    "District": "Kasargode",
+    "LSG": "Kallar",
+    "Ward": "2, 3, 7, 9, 10, 11, 13"
+  },
+  {
+    "No": 324,
+    "District": "Kasargode",
+    "LSG": "Kanhangad (M)",
+    "Ward": "1, 6, 8, 9 ,14, 15, 21, 24, 28, 29,31, 42"
+  },
+  {
+    "No": 325,
+    "District": "Kasargode",
+    "LSG": "Karadka",
+    "Ward": "2, 4, 5, 6, 11"
+  },
+  {
+    "No": 326,
+    "District": "Kasargode",
+    "LSG": "Kasargod (M)",
+    "Ward": "2, 5, 7, 8, 12, 14, 16, 17, 18, 19, 23, 25, 27, 28, 29, 34, 35, 37, 38"
+  },
+  {
+    "No": 327,
+    "District": "Kasargode",
+    "LSG": "Kayyur Cheemeni",
+    "Ward": "2, 3, 5, 10"
+  },
+  {
+    "No": 328,
+    "District": "Kasargode",
+    "LSG": "Kinanoor Karinthalam",
+    "Ward": "9, 14, 15, 16"
+  },
+  {
+    "No": 329,
+    "District": "Kasargode",
+    "LSG": "Kodom Belur",
+    "Ward": "1,3, 5, 12"
+  },
+  {
+    "No": 330,
+    "District": "Kasargode",
+    "LSG": "Kumbala",
+    "Ward": "1, 2, 3, 4, 5, 6, 11,12,14, 16, 17,19, 20, 21, 22, 23"
+  },
+  {
+    "No": 331,
+    "District": "Kasargode",
+    "LSG": "Kumbdaje",
+    "Ward": "5, 6, 7, 8, 9, 10"
+  },
+  {
+    "No": 332,
+    "District": "Kasargode",
+    "LSG": "Kuttikkole",
+    "Ward": "3, 5, 13"
+  },
+  {
+    "No": 333,
+    "District": "Kasargode",
+    "LSG": "Madhur",
+    "Ward": "2,3, 6, 7, 9, 10, 11, 14, 16, 17, 18, 19"
+  },
+  {
+    "No": 334,
+    "District": "Kasargode",
+    "LSG": "Madikkai",
+    "Ward": "11, 14"
+  },
+  {
+    "No": 335,
+    "District": "Kasargode",
+    "LSG": "Mangalpady",
+    "Ward": "1, 2, 3, 4, 5,7, 9, 10, 11, 12, 13, 15, 16, 17, 19, 20, 21"
+  },
+  {
+    "No": 336,
+    "District": "Kasargode",
+    "LSG": "Manjeshwar",
+    "Ward": "2, 3, 6, 7, 8, 9, 10, 11, 12, 14, 15, 17, 18, 19, 20"
+  },
+  {
+    "No": 337,
+    "District": "Kasargode",
+    "LSG": "Meenja",
+    "Ward": "1, 2, 7, 8, 11, 12, 13, 14"
+  },
+  {
+    "No": 338,
+    "District": "Kasargode",
+    "LSG": "Mogral Puthur",
+    "Ward": "3, 4, 6, 9, 10,12,14, 15"
+  },
+  {
+    "No": 339,
+    "District": "Kasargode",
+    "LSG": "Nileshwar (M)",
+    "Ward": "3, 5, 8, 10, 15, 21, 29, 30"
+  },
+  {
+    "No": 340,
+    "District": "Kasargode",
+    "LSG": "Padanna",
+    "Ward": "2, 4, 5"
+  },
+  {
+    "No": 341,
+    "District": "Kasargode",
+    "LSG": "Paivalike",
+    "Ward": "9, 11, 16, 17, 18"
+  },
+  {
+    "No": 342,
+    "District": "Kasargode",
+    "LSG": "Pallikkara",
+    "Ward": "3, 4, 6, 12, 14, 19, 22"
+  },
+  {
+    "No": 343,
+    "District": "Kasargode",
+    "LSG": "Panathady",
+    "Ward": "2, 5, 7, 13, 14"
+  },
+  {
+    "No": 344,
+    "District": "Kasargode",
+    "LSG": "Pilicode",
+    "Ward": "4, 7, 10, 12"
+  },
+  {
+    "No": 345,
+    "District": "Kasargode",
+    "LSG": "Pullur Periya",
+    "Ward": "1, 7, 8, 9, 11, 13, 14, 17"
+  },
+  {
+    "No": 346,
+    "District": "Kasargode",
+    "LSG": "Puthige",
+    "Ward": "6, 10"
+  },
+  {
+    "No": 347,
+    "District": "Kasargode",
+    "LSG": "Thrikkaripur",
+    "Ward": "1, 3, 4, 5, 7, 11, 13, 14, 15, 16"
+  },
+  {
+    "No": 348,
+    "District": "Kasargode",
+    "LSG": "Uduma",
+    "Ward": "2, 6, 11, 14, 16, 18"
+  },
+  {
+    "No": 349,
+    "District": "Kasargode",
+    "LSG": "Valiyaparamba",
+    "Ward": "6 , 7 , 10, 11"
+  },
+  {
+    "No": 350,
+    "District": "Kasargode",
+    "LSG": "Vorkkady",
+    "Ward": "1, 2, 3, 5, 7, 8, 9, 10, 15"
+  },
+  {
+    "No": 351,
+    "District": "Kasargode",
+    "LSG": "Bedadka",
+    "Ward": "4, 17"
+  },
+  {
+    "No": 352,
+    "District": "Kasargode",
+    "LSG": "West eleri",
+    "Ward": "15, 18"
+  },
+  {
+    "No": 353,
+    "District": "Thrissur",
+    "LSG": "Aloor",
+    "Ward": 1
+  },
+  {
+    "No": 354,
+    "District": "Thrissur",
+    "LSG": "Arimboor",
+    "Ward": 15
+  },
+  {
+    "No": 355,
+    "District": "Thrissur",
+    "LSG": "Avanur",
+    "Ward": 10
+  },
+  {
+    "No": 356,
+    "District": "Thrissur",
+    "LSG": "Avinissery",
+    "Ward": "2, 9"
+  },
+  {
+    "No": 357,
+    "District": "Thrissur",
+    "LSG": "Chalakkudy (M)",
+    "Ward": 33
+  },
+  {
+    "No": 358,
+    "District": "Thrissur",
+    "LSG": "Iringalakkuda (M)",
+    "Ward": "All Divisions"
+  },
+  {
+    "No": 359,
+    "District": "Thrissur",
+    "LSG": "Kandanassery",
+    "Ward": 1
+  },
+  {
+    "No": 360,
+    "District": "Thrissur",
+    "LSG": "Karalam",
+    "Ward": "1, 2, 4, 13, 14"
+  },
+  {
+    "No": 361,
+    "District": "Thrissur",
+    "LSG": "Kattakambal",
+    "Ward": "1, 2, 5, 7, 11"
+  },
+  {
+    "No": 362,
+    "District": "Thrissur",
+    "LSG": "Kattoor",
+    "Ward": 6
+  },
+  {
+    "No": 363,
+    "District": "Thrissur",
+    "LSG": "Kaypamangalam",
+    "Ward": "4, 9"
+  },
+  {
+    "No": 364,
+    "District": "Thrissur",
+    "LSG": "Kayparamb",
+    "Ward": "3, 10"
+  },
+  {
+    "No": 365,
+    "District": "Thrissur",
+    "LSG": "Kazhoor",
+    "Ward": "4, 6"
+  },
+  {
+    "No": 366,
+    "District": "Thrissur",
+    "LSG": "Kodakara",
+    "Ward": "2, 15, 17"
+  },
+  {
+    "No": 367,
+    "District": "Thrissur",
+    "LSG": "Kodassery",
+    "Ward": "10, 11"
+  },
+  {
+    "No": 368,
+    "District": "Thrissur",
+    "LSG": "Kondazhy",
+    "Ward": 1
+  },
+  {
+    "No": 369,
+    "District": "Thrissur",
+    "LSG": "Kunnamkulam (M)",
+    "Ward": "21, 22"
+  },
+  {
+    "No": 370,
+    "District": "Thrissur",
+    "LSG": "Mala",
+    "Ward": "1, 6, 8, 19, 20"
+  },
+  {
+    "No": 371,
+    "District": "Thrissur",
+    "LSG": "Mooriyad",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 372,
+    "District": "Thrissur",
+    "LSG": "Mulankunnathukavu",
+    "Ward": 11
+  },
+  {
+    "No": 373,
+    "District": "Thrissur",
+    "LSG": "Nadathara",
+    "Ward": "12, 13"
+  },
+  {
+    "No": 374,
+    "District": "Thrissur",
+    "LSG": "Nenmarnikkara",
+    "Ward": 4
+  },
+  {
+    "No": 375,
+    "District": "Thrissur",
+    "LSG": "Padiyoor",
+    "Ward": "1, 7, 8"
+  },
+  {
+    "No": 376,
+    "District": "Thrissur",
+    "LSG": "Parappookkara",
+    "Ward": "5, 6"
+  },
+  {
+    "No": 377,
+    "District": "Thrissur",
+    "LSG": "Pazhayannur",
+    "Ward": "1, 8, 9, 16"
+  },
+  {
+    "No": 378,
+    "District": "Thrissur",
+    "LSG": "Porkkulam",
+    "Ward": 10
+  },
+  {
+    "No": 379,
+    "District": "Thrissur",
+    "LSG": "Puthoor",
+    "Ward": 6
+  },
+  {
+    "No": 380,
+    "District": "Thrissur",
+    "LSG": "Thannyam",
+    "Ward": 18
+  },
+  {
+    "No": 381,
+    "District": "Thrissur",
+    "LSG": "Thekkumkara",
+    "Ward": 1
+  },
+  {
+    "No": 382,
+    "District": "Thrissur",
+    "LSG": "Thrissur ?",
+    "Ward": "6, 7, 8, 9, 11,25, 40, 41, 44"
+  },
+  {
+    "No": 383,
+    "District": "Thrissur",
+    "LSG": "Thrkkoor",
+    "Ward": "13, 15"
+  },
+  {
+    "No": 384,
+    "District": "Thrissur",
+    "LSG": "Thruvillwamala",
+    "Ward": 15
+  },
+  {
+    "No": 385,
+    "District": "Thrissur",
+    "LSG": "Vadakkanchery (M)",
+    "Ward": "15, 16, 18, 31, 33, 38, 39, 40"
+  },
+  {
+    "No": 386,
+    "District": "Thrissur",
+    "LSG": "Varavoor",
+    "Ward": 2
+  },
+  {
+    "No": 387,
+    "District": "Thrissur",
+    "LSG": "Velukkara",
+    "Ward": "1, 3, 4(Sub Ward)"
+  },
+  {
+    "No": 388,
+    "District": "Thrissur",
+    "LSG": "Manaloor",
+    "Ward": 3
+  },
+  {
+    "No": 389,
+    "District": "Alappuzha",
+    "LSG": "Arattupuzha",
+    "Ward": 12
+  },
+  {
+    "No": 390,
+    "District": "Alappuzha",
+    "LSG": "Aroor",
+    "Ward": "6, 10, 11, 13, 18, 22"
+  },
+  {
+    "No": 391,
+    "District": "Alappuzha",
+    "LSG": "Chengannur (M)",
+    "Ward": "4, 23"
+  },
+  {
+    "No": 392,
+    "District": "Alappuzha",
+    "LSG": "Chennampallippuram",
+    "Ward": 14
+  },
+  {
+    "No": 393,
+    "District": "Alappuzha",
+    "LSG": "Cheriyanad",
+    "Ward": 8
+  },
+  {
+    "No": 394,
+    "District": "Alappuzha",
+    "LSG": "Cherthala (M)",
+    "Ward": "12, 22, 24"
+  },
+  {
+    "No": 395,
+    "District": "Alappuzha",
+    "LSG": "Cherthala South",
+    "Ward": "3, 16"
+  },
+  {
+    "No": 396,
+    "District": "Alappuzha",
+    "LSG": "Ezhupunna",
+    "Ward": 10
+  },
+  {
+    "No": 397,
+    "District": "Alappuzha",
+    "LSG": "Kadakkarappally",
+    "Ward": "All wards"
+  },
+  {
+    "No": 398,
+    "District": "Alappuzha",
+    "LSG": "Kavalam",
+    "Ward": "1, 2, 3, 4, 5, 6, 7, 8, 9"
+  },
+  {
+    "No": 399,
+    "District": "Alappuzha",
+    "LSG": "Kayamkulam (M)",
+    "Ward": "4, 7, 9"
+  },
+  {
+    "No": 400,
+    "District": "Alappuzha",
+    "LSG": "Kuthiyathodu",
+    "Ward": "1, 3, 16"
+  },
+  {
+    "No": 401,
+    "District": "Alappuzha",
+    "LSG": "Mannanchery",
+    "Ward": 14
+  },
+  {
+    "No": 402,
+    "District": "Alappuzha",
+    "LSG": "Mararikkulam North",
+    "Ward": "1, 14, 18"
+  },
+  {
+    "No": 403,
+    "District": "Alappuzha",
+    "LSG": "Mararikkulam South",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 404,
+    "District": "Alappuzha",
+    "LSG": "Muhamma",
+    "Ward": 15
+  },
+  {
+    "No": 405,
+    "District": "Alappuzha",
+    "LSG": "Nilamperoor",
+    "Ward": "1, 2, 3, 4"
+  },
+  {
+    "No": 406,
+    "District": "Alappuzha",
+    "LSG": "Nooranad",
+    "Ward": "9, 11"
+  },
+  {
+    "No": 407,
+    "District": "Alappuzha",
+    "LSG": "Palamel",
+    "Ward": 1
+  },
+  {
+    "No": 408,
+    "District": "Alappuzha",
+    "LSG": "Pallippad",
+    "Ward": "10, 11"
+  },
+  {
+    "No": 409,
+    "District": "Alappuzha",
+    "LSG": "Pattanakkad",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 410,
+    "District": "Alappuzha",
+    "LSG": "Puliyoor",
+    "Ward": 1
+  },
+  {
+    "No": 411,
+    "District": "Alappuzha",
+    "LSG": "Punnapra North",
+    "Ward": "1, 2, 10, 11, 13, 15, 16, 17"
+  },
+  {
+    "No": 412,
+    "District": "Alappuzha",
+    "LSG": "Purakkad",
+    "Ward": 18
+  },
+  {
+    "No": 413,
+    "District": "Alappuzha",
+    "LSG": "Thamarakkulam",
+    "Ward": "1, 2, 6, 7"
+  },
+  {
+    "No": 414,
+    "District": "Alappuzha",
+    "LSG": "Thanneermukkam",
+    "Ward": "5, 10"
+  },
+  {
+    "No": 415,
+    "District": "Alappuzha",
+    "LSG": "Vallikkunnam",
+    "Ward": 3
+  },
+  {
+    "No": 416,
+    "District": "Alappuzha",
+    "LSG": "Vayalar",
+    "Ward": "1, 15"
+  },
+  {
+    "No": 417,
+    "District": "Alappuzha",
+    "LSG": "Alappuzha (M)",
+    "Ward": "1, 16, 22, 24"
+  },
+  {
+    "No": 418,
+    "District": "Alappuzha",
+    "LSG": "Panavally",
+    "Ward": "5, 10"
+  },
+  {
+    "No": 419,
+    "District": "Alappuzha",
+    "LSG": "Perumbalam",
+    "Ward": 9
+  },
+  {
+    "No": 420,
+    "District": "Alappuzha",
+    "LSG": "Chettikkulangara",
+    "Ward": "1, 21"
+  },
+  {
+    "No": 421,
+    "District": "Alappuzha",
+    "LSG": "Thrikkunnapuzha",
+    "Ward": 15
+  },
+  {
+    "No": 422,
+    "District": "Alappuzha",
+    "LSG": "Amalappuzha North",
+    "Ward": 12
+  },
+  {
+    "No": 423,
+    "District": "Alappuzha",
+    "LSG": "Arukutty",
+    "Ward": 7
+  },
+  {
+    "No": 424,
+    "District": "Alappuzha",
+    "LSG": "Kanjikkuzhy",
+    "Ward": 18
+  },
+  {
+    "No": 425,
+    "District": "Kottayam",
+    "LSG": "Parathode",
+    "Ward": "8, 9"
+  },
+  {
+    "No": 426,
+    "District": "Kottayam",
+    "LSG": "Udayanapuram",
+    "Ward": "16, 17"
+  },
+  {
+    "No": 427,
+    "District": "Kottayam",
+    "LSG": "TV puram",
+    "Ward": "11, 12"
+  },
+  {
+    "No": 428,
+    "District": "Kottayam",
+    "LSG": "Ettumanoor (M)",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 429,
+    "District": "Kottayam",
+    "LSG": "Maravanthuruth",
+    "Ward": 1
+  },
+  {
+    "No": 430,
+    "District": "Kottayam",
+    "LSG": "Changanassery (M)",
+    "Ward": "24, 31, 33, 37"
+  },
+  {
+    "No": 431,
+    "District": "Kottayam",
+    "LSG": "Kottayam (M)",
+    "Ward": "11, 21, 30, 31, 32, 46"
+  },
+  {
+    "No": 432,
+    "District": "Kottayam",
+    "LSG": "Vazahppally",
+    "Ward": "7, 11, 12"
+  },
+  {
+    "No": 433,
+    "District": "Kottayam",
+    "LSG": "Payippad",
+    "Ward": "7, 8, 9, 10, 11"
+  },
+  {
+    "No": 434,
+    "District": "Kottayam",
+    "LSG": "Vaikom (M)",
+    "Ward": "13, 21, 24, 25"
+  },
+  {
+    "No": 435,
+    "District": "Kottayam",
+    "LSG": "Kurichi",
+    "Ward": "4, 19, 20"
+  },
+  {
+    "No": 436,
+    "District": "Kottayam",
+    "LSG": "Madappally",
+    "Ward": 18
+  },
+  {
+    "No": 437,
+    "District": "Kottayam",
+    "LSG": "Meenadam",
+    "Ward": "2, 3"
+  },
+  {
+    "No": 438,
+    "District": "Kottayam",
+    "LSG": "Kanakkari",
+    "Ward": "3, 10"
+  },
+  {
+    "No": 439,
+    "District": "Kottayam",
+    "LSG": "Thrikkodithanam",
+    "Ward": 15
+  },
+  {
+    "No": 440,
+    "District": "Kottayam",
+    "LSG": "Thalayazham",
+    "Ward": "7, 9, 14"
+  },
+  {
+    "No": 441,
+    "District": "Kottayam",
+    "LSG": "Erumeli",
+    "Ward": 1
+  },
+  {
+    "No": 442,
+    "District": "Kottayam",
+    "LSG": "Athirampuzha",
+    "Ward": "1, 9, 10, 11, 12, 20, 21, 22"
+  },
+  {
+    "No": 443,
+    "District": "Kottayam",
+    "LSG": "Mundakkayam",
+    "Ward": 12
+  },
+  {
+    "No": 444,
+    "District": "Kottayam",
+    "LSG": "Ayarkunnam",
+    "Ward": 15
+  },
+  {
+    "No": 445,
+    "District": "Kottayam",
+    "LSG": "Panachikkad",
+    "Ward": "6, 16"
+  },
+  {
+    "No": 446,
+    "District": "Kottayam",
+    "LSG": "Kangazha",
+    "Ward": 6
+  },
+  {
+    "No": 447,
+    "District": "Idukki",
+    "LSG": "Vazhathope",
+    "Ward": 10
+  },
+  {
+    "No": 448,
+    "District": "Idukki",
+    "LSG": "Vannapuram",
+    "Ward": "1, 4, 17"
+  },
+  {
+    "No": 449,
+    "District": "Idukki",
+    "LSG": "Munnar",
+    "Ward": 19
+  },
+  {
+    "No": 450,
+    "District": "Idukki",
+    "LSG": "Karimkunnam",
+    "Ward": "1, 7, 8, 9, 10, 11, 12, 13"
+  },
+  {
+    "No": 451,
+    "District": "Idukki",
+    "LSG": "Edavetty",
+    "Ward": "1, 2(Sub Ward), 11, 12, 13"
+  },
+  {
+    "No": 452,
+    "District": "Idukki",
+    "LSG": "Peerumedu",
+    "Ward": "2, 6, 7, 10, 11, 12"
+  },
+  {
+    "No": 453,
+    "District": "Idukki",
+    "LSG": "Elappara",
+    "Ward": "6, 7, 11, 12, 13"
+  },
+  {
+    "No": 454,
+    "District": "Idukki",
+    "LSG": "Shanthanpara",
+    "Ward": "4, 5, 11, 12, 13"
+  },
+  {
+    "No": 455,
+    "District": "Idukki",
+    "LSG": "Rajakumari",
+    "Ward": "5, 6, 11"
+  },
+  {
+    "No": 456,
+    "District": "Idukki",
+    "LSG": "Kanjiyar",
+    "Ward": "11, 12"
+  },
+  {
+    "No": 457,
+    "District": "Idukki",
+    "LSG": "Rajakkad",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 458,
+    "District": "Idukki",
+    "LSG": "Devikulam",
+    "Ward": 15
+  },
+  {
+    "No": 459,
+    "District": "Idukki",
+    "LSG": "Nedumkandom",
+    "Ward": "10, 11, 12"
+  },
+  {
+    "No": 460,
+    "District": "Idukki",
+    "LSG": "Karuapuram",
+    "Ward": "3, 12"
+  },
+  {
+    "No": 461,
+    "District": "Idukki",
+    "LSG": "Pampadumpara",
+    "Ward": 4
+  },
+  {
+    "No": 462,
+    "District": "Idukki",
+    "LSG": "Chakkupallam",
+    "Ward": 11
+  },
+  {
+    "No": 463,
+    "District": "Wayanad",
+    "LSG": "Thondarnadu",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 464,
+    "District": "Wayanad",
+    "LSG": "Kaniyambatta",
+    "Ward": 5
+  },
+  {
+    "No": 465,
+    "District": "Wayanad",
+    "LSG": "Pulpally",
+    "Ward": 5
+  },
+  {
+    "No": 466,
+    "District": "Wayanad",
+    "LSG": "Edavaka",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 467,
+    "District": "Wayanad",
+    "LSG": "Vellamunda",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 468,
+    "District": "Wayanad",
+    "LSG": "Padinjarathara",
+    "Ward": "5, 7, 8, 9, 12, 13"
+  },
+  {
+    "No": 469,
+    "District": "Wayanad",
+    "LSG": "Thavinjal",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 470,
+    "District": "Wayanad",
+    "LSG": "Nenmeni",
+    "Ward": 1
+  },
+  {
+    "No": 471,
+    "District": "Wayanad",
+    "LSG": "Sulthan Batheri (M)",
+    "Ward": "15, 23,24"
+  },
+  {
+    "No": 472,
+    "District": "Wayanad",
+    "LSG": "Ambalavayal",
+    "Ward": "2, 3"
+  },
+  {
+    "No": 473,
+    "District": "Wayanad",
+    "LSG": "Pozhuthana",
+    "Ward": "1, 2, 3, 4, 5, 6, 10, 11, 12, 13"
+  },
+  {
+    "No": 474,
+    "District": "Wayanad",
+    "LSG": "Kottathara",
+    "Ward": "5, 10"
+  },
+  {
+    "No": 475,
+    "District": "Wayanad",
+    "LSG": "Kalppata (M)",
+    "Ward": "9, 25(Sub Wards)"
+  },
+  {
+    "No": 476,
+    "District": "Wayanad",
+    "LSG": "Mananthavady (M)",
+    "Ward": "8, 20, 22"
+  },
+  {
+    "No": 477,
+    "District": "Malappuram",
+    "LSG": "Peruvallur",
+    "Ward": "3, 5, 6, 11, 12, 13, 18, 19"
+  },
+  {
+    "No": 478,
+    "District": "Malappuram",
+    "LSG": "Kondotty (M)",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 479,
+    "District": "Malappuram",
+    "LSG": "Pallikkal",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 480,
+    "District": "Malappuram",
+    "LSG": "Vazhayur",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 481,
+    "District": "Malappuram",
+    "LSG": "Vazhakkad",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 482,
+    "District": "Malappuram",
+    "LSG": "Cheekkode",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 483,
+    "District": "Malappuram",
+    "LSG": "Muthuvallur",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 484,
+    "District": "Malappuram",
+    "LSG": "Pulikkal",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 485,
+    "District": "Malappuram",
+    "LSG": "Kuzhimanna",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 486,
+    "District": "Malappuram",
+    "LSG": "Morayur",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 487,
+    "District": "Malappuram",
+    "LSG": "Chelambra",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 488,
+    "District": "Malappuram",
+    "LSG": "Cherukav",
+    "Ward": "All Wards"
+  },
+  {
+    "No": 489,
+    "District": "Pathanamthitta",
+    "LSG": "Kallooppara",
+    "Ward": "8,14"
+  },
+  {
+    "No": 490,
+    "District": "Pathanamthitta",
+    "LSG": "Kunnamthanam",
+    "Ward": 10
+  },
+  {
+    "No": 491,
+    "District": "Pathanamthitta",
+    "LSG": "Omalloor",
+    "Ward": 1
+  },
+  {
+    "No": 492,
+    "District": "Pathanamthitta",
+    "LSG": "Pallikkal",
+    "Ward": "6, 7, 15"
+  },
+  {
+    "No": 493,
+    "District": "Pathanamthitta",
+    "LSG": "Peringara",
+    "Ward": "13, 14"
+  },
+  {
+    "No": 494,
+    "District": "Pathanamthitta",
+    "LSG": "Thiruvalla (M)",
+    "Ward": "5, 7, 8"
+  },
+  {
+    "No": 495,
+    "District": "Pathanamthitta",
+    "LSG": "Eraviperoor",
+    "Ward": 8
+  },
+  {
+    "No": 496,
+    "District": "Pathanamthitta",
+    "LSG": "Niranam",
+    "Ward": 3
+  },
+  {
+    "No": 497,
+    "District": "Pathanamthitta",
+    "LSG": "Ezhumattoor",
+    "Ward": "1, 2, 4, 14"
+  },
+  {
+    "No": 498,
+    "District": "Pathanamthitta",
+    "LSG": "Vallicode",
+    "Ward": 5
+  }
+]
